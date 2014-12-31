@@ -46,8 +46,6 @@
 
 void setup_io();
 void gpioInit();
-void setTempCtrlSource(int ctrlSource);
-void tempCtrl(int tempCtrlMode, float tempSetPoint, float temperature, int *heatActive, int *coolActive);
 extern void putsSPI2(unsigned int numBytes, unsigned int txData[]);
 
 

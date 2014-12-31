@@ -8,13 +8,8 @@
 #include <fcntl.h>
 #include <stdio.h>
 #include <unistd.h>
-#include "lcdUtil.h"
 #include "ledStrip.h"
-#include "i2cUtil.h"
-#include "softKey.h"
 #include "gpio.h"
-#include "logData.h"
-#include <time.h>
 #include "lpd8806.h"
 
 unsigned long int led_strip_colors[3];
@@ -43,42 +38,37 @@ int ledInc;
   gpioInit();
   litLen = 0;
 
-      led_strip_colors1[0] = 0x7F0000;
-      led_strip_colors1[1] = 0x007f00;
-      led_strip_colors1[2] = 0x00007f;
+  led_strip_colors1[0] = 0x7F0000;
+  led_strip_colors1[1] = 0x007f00;
+  led_strip_colors1[2] = 0x00007f;
 
-      led_strip_colors2[0] = 0x7f7f7f;
-      led_strip_colors2[1] = 0x7f7f7f;
-      led_strip_colors2[2] = 0x7f7f7f;
+  led_strip_colors2[0] = 0x7f7f7f;
+  led_strip_colors2[1] = 0x7f7f7f;
+  led_strip_colors2[2] = 0x7f7f7f;
 
-      led_strip_colors3[0] = 0x7f1000;
-      led_strip_colors3[1] = 0x007f00;
-      led_strip_colors3[2] = 0x10007f;
+  led_strip_colors3[0] = 0x7f1000;
+  led_strip_colors3[1] = 0x007f00;
+  led_strip_colors3[2] = 0x10007f;
 
-      led_strip_colors4[0] = 0x7f7f7f;
-      led_strip_colors4[1] = 0x7f7f7f;
-      led_strip_colors4[2] = 0x7f7f7f;
+  led_strip_colors4[0] = 0x7f0000;
+  led_strip_colors4[1] = 0x7f0000;
+  led_strip_colors4[2] = 0x7f0000;
 
-      led_strip_colors5[0] = 0x7f0000;
-      led_strip_colors5[1] = 0x007f00;
-      led_strip_colors5[2] = 0x00007f;
+  led_strip_colors5[0] = 0x7f0000;
+  led_strip_colors5[1] = 0x007f00;
+  led_strip_colors5[2] = 0x00007f;
 
-      led_strip_colors6[0] = 0x7f7f7f;
-      led_strip_colors6[1] = 0x7f7f7f;
-      led_strip_colors6[2] = 0x7f7f7f;
+  led_strip_colors6[0] = 0x007f00;
+  led_strip_colors6[1] = 0x007f00;
+  led_strip_colors6[2] = 0x007f00;
 
-      led_strip_colors7[0] = 0x7f1000;
-      led_strip_colors7[1] = 0x7f1000;
-      led_strip_colors7[2] = 0x7f1000;
+  led_strip_colors7[0] = 0x7f1000;
+  led_strip_colors7[1] = 0x7f1000;
+  led_strip_colors7[2] = 0x7f1000;
 
-      led_strip_colors8[0] = 0x7f7f7f;
-      led_strip_colors8[1] = 0x7f7f7f;
-      led_strip_colors8[2] = 0x7f7f7f;
-
-  //while (1) {
-  //  blendPixels(led_strip_colors1, led_strip_colors2, 100, 50000);
-  //  blendPixels(led_strip_colors2, led_strip_colors1, 100, 50000);
-  //}
+  led_strip_colors8[0] = 0x7f7f7f;
+  led_strip_colors8[1] = 0x7f7f7f;
+  led_strip_colors8[2] = 0x7f7f7f;
 
   while (1) {
     blendPixels(led_strip_colors1, led_strip_colors2, 100, 200000);
@@ -137,14 +127,7 @@ int ledInc;
     usleep(100000);
   }
 
-  while (1) {
-    time_t t = time(NULL);
-    struct tm tm = *localtime(&t);
 
-    printf("now: %d-%d-%d %d:%d:%d\n", tm.tm_year + 1900, tm.tm_mon + 1, tm.tm_mday, tm.tm_hour, tm.tm_min, tm.tm_sec);
-
-    usleep(10000000);
-  }
 }
 
 
