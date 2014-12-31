@@ -1,0 +1,3597 @@
+  Heat ON - 08:26
+  Heat OFF - 09:25, cumulative run time = 3532s
+  Heat ON - 11:26
+  Heat OFF - 11:58, cumulative run time = 5456s
+  Heat ON - 12:07
+  Heat OFF - 12:15, cumulative run time = 5894s
+  Heat ON - 12:33
+  Heat OFF - 12:40, cumulative run time = 6299s
+  Heat ON - 14:39
+  Heat OFF - 14:44, cumulative run time = 6594s
+  Heat ON - 19:03
+  Heat OFF - 19:08, cumulative run time = 6918s
+  Heat ON - 21:14
+  Heat OFF - 21:21, cumulative run time = 7389s
+  Heat ON - 21:52
+  Heat OFF - 21:58, cumulative run time = 7786s
+11-29-2013
+  Heat ON - 07:36
+  Heat OFF - 09:18, cumulative run time = 6130s
+  Heat ON - 09:25
+  Heat OFF - 09:36, cumulative run time = 6802s
+  Heat ON - 09:45
+  Heat OFF - 09:54, cumulative run time = 7357s
+  Heat ON - 10:13
+  Heat OFF - 10:22, cumulative run time = 7922s
+  Heat ON - 10:37
+  Heat OFF - 10:43, cumulative run time = 8300s
+  Heat ON - 11:13
+  Heat OFF - 11:19, cumulative run time = 8694s
+  Heat ON - 11:43
+  Heat OFF - 11:48, cumulative run time = 9041s
+  Heat ON - 12:20
+  Heat OFF - 12:25, cumulative run time = 9353s
+  Heat ON - 17:09
+  Heat OFF - 17:16, cumulative run time = 9759s
+  Heat ON - 20:43
+  Heat OFF - 20:47, cumulative run time = 9997s
+  Heat ON - 21:17
+  Heat OFF - 21:23, cumulative run time = 10352s
+11-30-2013
+  Heat ON - 08:00
+  Heat OFF - 09:30, cumulative run time = 5414s
+  Heat ON - 09:38
+  Heat OFF - 09:47, cumulative run time = 5965s
+  Heat ON - 10:14
+  Heat OFF - 10:23, cumulative run time = 6509s
+  Heat ON - 10:49
+  Heat OFF - 10:54, cumulative run time = 6778s
+  Heat ON - 15:04
+  Heat OFF - 15:11, cumulative run time = 7185s
+  Heat ON - 21:24
+  Heat OFF - 21:31, cumulative run time = 7574s
+12-1-2013
+  Heat ON - 11:02
+  Heat OFF - 12:12, cumulative run time = 4189s
+  Heat ON - 12:20
+  Heat OFF - 12:29, cumulative run time = 4758s
+  Heat ON - 12:43
+  Heat OFF - 12:50, cumulative run time = 5199s
+12-6-2013
+  Heat ON - 07:33
+  Heat OFF - 09:18, cumulative run time = 6348s
+  Heat ON - 09:25
+  Heat OFF - 09:36, cumulative run time = 7019s
+  Heat ON - 09:44
+  Heat OFF - 09:46, cumulative run time = 7107s
+  Heat ON - 11:06
+  Heat OFF - 11:31, cumulative run time = 8609s
+  Heat ON - 11:42
+  Heat OFF - 11:50, cumulative run time = 9125s
+  Heat ON - 12:08
+  Heat OFF - 12:17, cumulative run time = 9675s
+  Heat ON - 12:44
+  Heat OFF - 12:49, cumulative run time = 9975s
+  Heat ON - 16:07
+  Heat OFF - 16:36, cumulative run time = 11698s
+  Heat ON - 16:44
+  Heat OFF - 16:55, cumulative run time = 12345s
+  Heat ON - 17:05
+  Heat OFF - 17:15, cumulative run time = 12907s
+  Heat ON - 17:26
+  Heat OFF - 17:33, cumulative run time = 13314s
+  Heat ON - 17:59
+  Heat OFF - 18:05, cumulative run time = 13711s
+  Heat ON - 19:05
+  Heat OFF - 19:12, cumulative run time = 14120s
+  Heat ON - 19:37
+  Heat OFF - 19:44, cumulative run time = 14536s
+  Heat ON - 20:07
+  Heat OFF - 20:15, cumulative run time = 15029s
+  Heat ON - 20:41
+  Heat OFF - 20:50, cumulative run time = 15537s
+  Heat ON - 21:08
+  Heat OFF - 21:15, cumulative run time = 15949s
+12-7-2013
+  Heat ON - 07:15
+  Heat OFF - 10:12, cumulative run time = 10622s
+  Heat ON - 10:17
+  Heat OFF - 10:33, cumulative run time = 11565s
+  Heat ON - 10:41
+  Heat OFF - 10:54, cumulative run time = 12336s
+  Heat ON - 11:02
+  Heat OFF - 11:14, cumulative run time = 13033s
+  Heat ON - 11:24
+  Heat OFF - 11:34, cumulative run time = 13603s
+  Heat ON - 11:49
+  Heat OFF - 11:56, cumulative run time = 14058s
+  Heat ON - 12:17
+  Heat OFF - 12:20, cumulative run time = 14232s
+  Heat ON - 18:25
+  Heat OFF - 19:59, cumulative run time = 19837s
+  Heat ON - 20:05
+  Heat OFF - 20:23, cumulative run time = 20927s
+  Heat ON - 20:30
+  Heat OFF - 20:43, cumulative run time = 21662s
+  Heat ON - 20:52
+  Heat OFF - 21:02, cumulative run time = 22240s
+12-8-2013
+  Heat ON - 06:52
+  Heat OFF - 07:13, cumulative run time = 1261s
+  Heat ON - 09:42
+  Heat OFF - 10:59, cumulative run time = 5908s
+  Heat ON - 11:35
+  Heat OFF - 13:15, cumulative run time = 11912s
+  Heat ON - 13:22
+  Heat OFF - 13:35, cumulative run time = 12702s
+  Heat ON - 13:43
+  Heat OFF - 13:53, cumulative run time = 13274s
+  Heat ON - 14:04
+  Heat OFF - 14:14, cumulative run time = 13904s
+  Heat ON - 14:37
+  Heat OFF - 14:46, cumulative run time = 14459s
+  Heat ON - 15:22
+  Heat OFF - 15:28, cumulative run time = 14873s
+  Heat ON - 15:52
+  Heat OFF - 15:57, cumulative run time = 15134s
+  Heat ON - 16:19
+  Heat OFF - 16:27, cumulative run time = 15595s
+  Heat ON - 16:43
+  Heat OFF - 16:51, cumulative run time = 16050s
+  Heat ON - 17:09
+  Heat OFF - 17:17, cumulative run time = 16547s
+  Heat ON - 19:45
+  Heat OFF - 20:09, cumulative run time = 18012s
+  Heat ON - 20:17
+  Heat OFF - 20:28, cumulative run time = 18678s
+  Heat ON - 20:37
+  Heat OFF - 20:46, cumulative run time = 19245s
+  Heat ON - 20:58
+  Heat OFF - 20:59, cumulative run time = 19305s
+12-9-2013
+  Heat ON - 06:30
+  Heat OFF - 07:13, cumulative run time = 2595s
+  Heat ON - 11:55
+  Heat OFF - 14:42, cumulative run time = 12630s
+  Heat ON - 14:49
+  Heat OFF - 15:01, cumulative run time = 13313s
+  Heat ON - 15:09
+  Heat OFF - 15:19, cumulative run time = 13899s
+  Heat ON - 15:29
+  Heat OFF - 15:37, cumulative run time = 14383s
+  Heat ON - 15:50
+  Heat OFF - 15:58, cumulative run time = 14863s
+  Heat ON - 16:21
+  Heat OFF - 16:32, cumulative run time = 15482s
+  Heat ON - 16:52
+  Heat OFF - 17:01, cumulative run time = 16014s
+  Heat ON - 18:31
+  Heat OFF - 18:38, cumulative run time = 16409s
+  Heat ON - 18:57
+  Heat OFF - 19:02, cumulative run time = 16720s
+  Heat ON - 19:19
+  Heat OFF - 19:27, cumulative run time = 17193s
+  Heat ON - 19:46
+  Heat OFF - 19:52, cumulative run time = 17517s
+  Heat ON - 20:09
+  Heat OFF - 20:17, cumulative run time = 18003s
+  Heat ON - 20:30
+  Heat OFF - 20:38, cumulative run time = 18469s
+  Heat ON - 21:02
+  Heat OFF - 21:03, cumulative run time = 18548s
+12-10-2013
+  Heat ON - 06:51
+  Heat OFF - 07:25, cumulative run time = 2060s
+  Heat ON - 09:37
+  Heat OFF - 12:09, cumulative run time = 11180s
+  Heat ON - 12:16
+  Heat OFF - 12:27, cumulative run time = 11814s
+  Heat ON - 12:34
+  Heat OFF - 12:46, cumulative run time = 12548s
+  Heat ON - 12:56
+  Heat OFF - 13:05, cumulative run time = 13087s
+  Heat ON - 13:18
+  Heat OFF - 13:28, cumulative run time = 13631s
+  Heat ON - 13:51
+  Heat OFF - 14:01, cumulative run time = 14204s
+  Heat ON - 14:26
+  Heat OFF - 14:35, cumulative run time = 14773s
+  Heat ON - 14:58
+  Heat OFF - 15:06, cumulative run time = 15274s
+  Heat ON - 15:40
+  Heat OFF - 15:49, cumulative run time = 15800s
+  Heat ON - 16:17
+  Heat OFF - 16:24, cumulative run time = 16252s
+  Heat ON - 16:57
+  Heat OFF - 17:04, cumulative run time = 16676s
+  Heat ON - 19:00
+  Heat OFF - 19:06, cumulative run time = 17090s
+  Heat ON - 19:34
+  Heat OFF - 19:43, cumulative run time = 17614s
+  Heat ON - 20:15
+  Heat OFF - 20:24, cumulative run time = 18137s
+  Heat ON - 20:47
+  Heat OFF - 20:56, cumulative run time = 18672s
+  Heat ON - 21:14
+  Heat OFF - 21:21, cumulative run time = 19134s
+12-11-2013
+  Heat ON - 07:00
+  Heat OFF - 10:24, cumulative run time = 12254s
+  Heat ON - 11:50
+  Heat OFF - 12:21, cumulative run time = 14116s
+  Heat ON - 12:30
+  Heat OFF - 12:39, cumulative run time = 14655s
+  Heat ON - 12:53
+  Heat OFF - 13:01, cumulative run time = 15129s
+  Heat ON - 13:23
+  Heat OFF - 13:30, cumulative run time = 15572s
+  Heat ON - 14:02
+  Heat OFF - 14:08, cumulative run time = 15985s
+  Heat ON - 14:47
+  Heat OFF - 14:54, cumulative run time = 16362s
+  Heat ON - 15:35
+  Heat OFF - 15:41, cumulative run time = 16708s
+  Heat ON - 16:29
+  Heat OFF - 16:36, cumulative run time = 17168s
+  Heat ON - 17:30
+  Heat OFF - 17:36, cumulative run time = 17535s
+  Heat ON - 18:37
+  Heat OFF - 18:45, cumulative run time = 18012s
+  Heat ON - 19:17
+  Heat OFF - 19:26, cumulative run time = 18518s
+  Heat ON - 19:58
+  Heat OFF - 20:05, cumulative run time = 18953s
+  Heat ON - 20:31
+  Heat OFF - 20:39, cumulative run time = 19430s
+  Heat ON - 20:59
+  Heat OFF - 21:06, cumulative run time = 19887s
+12-12-2013
+  Heat ON - 07:02
+  Heat OFF - 07:27, cumulative run time = 1520s
+  Heat ON - 10:31
+  Heat OFF - 12:33, cumulative run time = 8822s
+  Heat ON - 12:41
+  Heat OFF - 12:52, cumulative run time = 9475s
+  Heat ON - 13:04
+  Heat OFF - 13:12, cumulative run time = 9980s
+  Heat ON - 13:37
+  Heat OFF - 13:45, cumulative run time = 10492s
+  Heat ON - 14:05
+  Heat OFF - 14:13, cumulative run time = 10949s
+  Heat ON - 14:40
+  Heat OFF - 14:48, cumulative run time = 11374s
+  Heat ON - 15:26
+  Heat OFF - 15:32, cumulative run time = 11761s
+  Heat ON - 16:35
+  Heat OFF - 16:41, cumulative run time = 12159s
+  Heat ON - 17:24
+  Heat OFF - 17:29, cumulative run time = 12488s
+  Heat ON - 18:41
+  Heat OFF - 18:46, cumulative run time = 12772s
+  Heat ON - 19:28
+  Heat OFF - 19:36, cumulative run time = 13258s
+  Heat ON - 20:12
+  Heat OFF - 20:18, cumulative run time = 13616s
+  Heat ON - 20:48
+  Heat OFF - 20:54, cumulative run time = 14007s
+12-13-2013
+  Heat ON - 07:44
+  Heat OFF - 10:16, cumulative run time = 9075s
+  Heat ON - 10:24
+  Heat OFF - 10:35, cumulative run time = 9735s
+  Heat ON - 10:44
+  Heat OFF - 10:54, cumulative run time = 10331s
+  Heat ON - 11:08
+  Heat OFF - 11:16, cumulative run time = 10824s
+  Heat ON - 11:34
+  Heat OFF - 11:42, cumulative run time = 11315s
+  Heat ON - 12:08
+  Heat OFF - 12:14, cumulative run time = 11677s
+  Heat ON - 12:49
+  Heat OFF - 12:55, cumulative run time = 12066s
+  Heat ON - 13:20
+  Heat OFF - 13:27, cumulative run time = 12484s
+  Heat ON - 14:14
+  Heat OFF - 14:22, cumulative run time = 12915s
+  Heat ON - 15:09
+  Heat OFF - 15:14, cumulative run time = 13250s
+12-14-2013
+  Heat ON - 07:13
+  Heat ON - 08:57
+  Heat OFF - 10:41, cumulative run time = 6202s
+  Heat ON - 10:48
+  Heat OFF - 10:59, cumulative run time = 6902s
+  Heat ON - 11:10
+  Heat OFF - 11:19, cumulative run time = 7430s
+  Heat ON - 11:30
+  Heat OFF - 11:38, cumulative run time = 7911s
+  Heat ON - 11:56
+  Heat OFF - 12:05, cumulative run time = 8411s
+  Heat ON - 15:33
+  Heat OFF - 15:45, cumulative run time = 9093s
+  Heat ON - 16:08
+  Heat OFF - 16:16, cumulative run time = 9559s
+  Heat ON - 18:45
+  Heat OFF - 18:51, cumulative run time = 9908s
+  Heat ON - 20:37
+  Heat OFF - 20:43, cumulative run time = 10239s
+  Heat ON - 21:08
+  Heat OFF - 21:13, cumulative run time = 10544s
+  Heat ON - 21:35
+  Heat OFF - 21:42, cumulative run time = 10961s
+  Heat ON - 22:05
+  Heat OFF - 22:12, cumulative run time = 11396s
+  Heat ON - 22:28
+  Heat OFF - 22:31, cumulative run time = 11580s
+12-15-2013
+  Heat ON - 06:57
+  Heat OFF - 07:27, cumulative run time = 1759s
+  Heat ON - 09:28
+  Heat OFF - 11:16, cumulative run time = 8235s
+  Heat ON - 11:24
+  Heat OFF - 11:33, cumulative run time = 8813s
+  Heat ON - 11:45
+  Heat OFF - 11:53, cumulative run time = 9282s
+  Heat ON - 12:24
+  Heat OFF - 12:32, cumulative run time = 9746s
+  Heat ON - 13:12
+  Heat OFF - 13:19, cumulative run time = 10151s
+  Heat ON - 14:01
+  Heat OFF - 14:07, cumulative run time = 10524s
+  Heat ON - 14:50
+  Heat OFF - 14:55, cumulative run time = 10794s
+  Heat ON - 15:44
+  Heat OFF - 15:48, cumulative run time = 11004s
+  Heat ON - 16:21
+  Heat OFF - 16:26, cumulative run time = 11320s
+  Heat ON - 17:15
+  Heat OFF - 17:22, cumulative run time = 11711s
+  Heat ON - 19:23
+  Heat OFF - 19:30, cumulative run time = 12136s
+  Heat ON - 20:05
+  Heat OFF - 20:12, cumulative run time = 12522s
+12-16-2013
+  Heat ON - 12:28
+  Heat OFF - 14:13, cumulative run time = 6266s
+  Heat ON - 14:20
+  Heat OFF - 14:31, cumulative run time = 6909s
+  Heat ON - 14:41
+  Heat OFF - 14:49, cumulative run time = 7396s
+  Heat ON - 15:02
+  Heat OFF - 15:09, cumulative run time = 7795s
+  Heat ON - 15:26
+  Heat OFF - 15:32, cumulative run time = 8165s
+  Heat ON - 16:05
+  Heat OFF - 16:11, cumulative run time = 8515s
+  Heat ON - 19:37
+  Heat OFF - 19:43, cumulative run time = 8882s
+  Heat ON - 20:34
+  Heat OFF - 20:42, cumulative run time = 9361s
+  Heat ON - 21:13
+  Heat OFF - 21:20, cumulative run time = 9762s
+12-17-2013
+  Heat ON - 10:31
+  Heat OFF - 12:17, cumulative run time = 6334s
+  Heat ON - 12:24
+  Heat OFF - 12:35, cumulative run time = 6969s
+  Heat ON - 12:44
+  Heat OFF - 12:52, cumulative run time = 7467s
+  Heat ON - 13:04
+  Heat OFF - 13:11, cumulative run time = 7867s
+  Heat ON - 13:24
+  Heat OFF - 13:30, cumulative run time = 8234s
+  Heat ON - 13:55
+  Heat OFF - 14:02, cumulative run time = 8656s
+  Heat ON - 14:30
+  Heat OFF - 14:35, cumulative run time = 8971s
+  Heat ON - 15:16
+  Heat OFF - 15:23, cumulative run time = 9362s
+  Heat ON - 16:23
+  Heat OFF - 16:30, cumulative run time = 9772s
+  Heat ON - 17:16
+  Heat OFF - 17:23, cumulative run time = 10140s
+  Heat ON - 17:47
+  Heat OFF - 17:53, cumulative run time = 10544s
+  Heat ON - 19:47
+  Heat OFF - 19:52, cumulative run time = 10886s
+12-18-2013
+  Heat ON - 10:01
+  Heat OFF - 11:34, cumulative run time = 5591s
+  Heat ON - 11:40
+  Heat OFF - 11:51, cumulative run time = 6272s
+  Heat ON - 11:59
+  Heat OFF - 12:07, cumulative run time = 6742s
+  Heat ON - 12:19
+  Heat OFF - 12:28, cumulative run time = 7269s
+  Heat ON - 12:42
+  Heat OFF - 12:49, cumulative run time = 7690s
+  Heat ON - 13:15
+  Heat OFF - 13:18, cumulative run time = 7852s
+  Heat ON - 16:04
+  Heat OFF - 16:20, cumulative run time = 8786s
+  Heat ON - 16:31
+  Heat OFF - 16:40, cumulative run time = 9322s
+  Heat ON - 17:06
+  Heat OFF - 17:14, cumulative run time = 9781s
+  Heat ON - 18:23
+  Heat OFF - 18:30, cumulative run time = 10204s
+  Heat ON - 19:15
+  Heat OFF - 19:22, cumulative run time = 10670s
+  Heat ON - 19:52
+  Heat OFF - 19:59, cumulative run time = 11098s
+  Heat ON - 20:35
+  Heat OFF - 20:43, cumulative run time = 11577s
+  Heat ON - 21:12
+  Heat OFF - 21:15, cumulative run time = 11771s
+12-19-2013
+  Heat ON - 07:00
+  Heat OFF - 07:33, cumulative run time = 1959s
+  Heat ON - 09:39
+  Heat OFF - 11:50, cumulative run time = 9810s
+  Heat ON - 11:58
+  Heat OFF - 12:09, cumulative run time = 10486s
+  Heat ON - 12:20
+  Heat OFF - 12:29, cumulative run time = 11026s
+  Heat ON - 12:49
+  Heat OFF - 12:58, cumulative run time = 11571s
+  Heat ON - 13:24
+  Heat OFF - 13:32, cumulative run time = 12074s
+  Heat ON - 15:18
+  Heat OFF - 15:20, cumulative run time = 12203s
+  Heat ON - 18:04
+  Heat OFF - 18:18, cumulative run time = 13065s
+  Heat ON - 18:32
+  Heat OFF - 18:38, cumulative run time = 13396s
+  Heat ON - 20:30
+  Heat OFF - 20:36, cumulative run time = 13754s
+  Heat ON - 21:13
+  Heat OFF - 21:18, cumulative run time = 14055s
+12-20-2013
+  Heat ON - 07:45
+  Heat OFF - 09:27, cumulative run time = 6099s
+  Heat ON - 09:32
+  Heat OFF - 09:46, cumulative run time = 6910s
+  Heat ON - 09:53
+  Heat OFF - 10:01, cumulative run time = 7393s
+  Heat ON - 10:12
+  Heat OFF - 10:19, cumulative run time = 7799s
+  Heat ON - 17:08
+  Heat OFF - 17:31, cumulative run time = 9208s
+  Heat ON - 17:41
+  Heat OFF - 17:49, cumulative run time = 9700s
+  Heat ON - 18:04
+  Heat OFF - 18:11, cumulative run time = 10133s
+  Heat ON - 18:40
+  Heat OFF - 18:48, cumulative run time = 10601s
+  Heat ON - 19:07
+  Heat OFF - 19:13, cumulative run time = 10961s
+  Heat ON - 19:41
+  Heat OFF - 19:45, cumulative run time = 11251s
+  Heat ON - 20:12
+  Heat OFF - 20:18, cumulative run time = 11562s
+12-21-2013
+  Heat ON - 09:07
+  Heat OFF - 10:11, cumulative run time = 3849s
+  Heat ON - 11:53
+  Heat OFF - 12:47, cumulative run time = 7127s
+  Heat ON - 12:53
+  Heat OFF - 13:01, cumulative run time = 7636s
+  Heat ON - 13:10
+  Heat OFF - 13:16, cumulative run time = 8032s
+  Heat ON - 13:26
+  Heat OFF - 13:32, cumulative run time = 8393s
+  Heat ON - 13:45
+  Heat OFF - 13:50, cumulative run time = 8719s
+  Heat ON - 14:13
+  Heat OFF - 14:18, cumulative run time = 8986s
+  Heat ON - 14:52
+  Heat OFF - 14:57, cumulative run time = 9314s
+  Heat ON - 15:29
+  Heat OFF - 15:34, cumulative run time = 9603s
+  Heat ON - 16:21
+  Heat OFF - 16:25, cumulative run time = 9865s
+  Heat ON - 16:57
+  Heat OFF - 17:00, cumulative run time = 10094s
+  Heat ON - 17:32
+  Heat OFF - 17:35, cumulative run time = 10323s
+  Heat ON - 18:53
+  Heat OFF - 18:57, cumulative run time = 10585s
+  Heat ON - 19:35
+  Heat OFF - 19:40, cumulative run time = 10840s
+  Heat ON - 20:04
+  Heat OFF - 20:10, cumulative run time = 11199s
+12-22-2013
+  Heat ON - 10:26
+  Heat OFF - 12:10, cumulative run time = 6252s
+  Heat ON - 12:17
+  Heat OFF - 12:27, cumulative run time = 6849s
+  Heat ON - 12:35
+  Heat OFF - 12:43, cumulative run time = 7323s
+  Heat ON - 12:53
+  Heat OFF - 13:00, cumulative run time = 7741s
+  Heat ON - 13:13
+  Heat OFF - 13:20, cumulative run time = 8147s
+  Heat ON - 13:46
+  Heat OFF - 13:52, cumulative run time = 8520s
+  Heat ON - 14:20
+  Heat OFF - 14:26, cumulative run time = 8854s
+  Heat ON - 14:56
+  Heat OFF - 15:01, cumulative run time = 9151s
+12-23-2013
+  Heat ON - 05:22
+  Heat OFF - 07:37, cumulative run time = 8079s
+  Heat ON - 07:42
+  Heat OFF - 07:53, cumulative run time = 8736s
+  Heat ON - 08:01
+  Heat OFF - 08:11, cumulative run time = 9355s
+  Heat ON - 08:19
+  Heat OFF - 08:28, cumulative run time = 9892s
+  Heat ON - 08:37
+  Heat OFF - 08:41, cumulative run time = 10185s
+  Heat ON - 12:48
+  Heat OFF - 12:59, cumulative run time = 10853s
+  Heat ON - 13:08
+  Heat OFF - 13:14, cumulative run time = 11193s
+12-24-2013
+  Heat ON - 06:57
+  Heat OFF - 08:54, cumulative run time = 7016s
+  Heat ON - 09:01
+  Heat OFF - 09:15, cumulative run time = 7910s
+  Heat ON - 09:22
+  Heat OFF - 09:32, cumulative run time = 8489s
+  Heat ON - 09:40
+  Heat OFF - 09:48, cumulative run time = 8942s
+  Heat ON - 09:58
+  Heat OFF - 10:03, cumulative run time = 9238s
+  Heat ON - 10:18
+  Heat OFF - 10:23, cumulative run time = 9536s
+  Heat ON - 10:45
+  Heat OFF - 10:49, cumulative run time = 9763s
+  Heat ON - 11:28
+  Heat OFF - 11:32, cumulative run time = 9995s
+  Heat ON - 12:13
+  Heat OFF - 12:16, cumulative run time = 10201s
+  Heat ON - 19:19
+  Heat OFF - 19:26, cumulative run time = 10647s
+  Heat ON - 19:39
+  Heat OFF - 19:44, cumulative run time = 10925s
+  Heat ON - 20:00
+  Heat OFF - 20:05, cumulative run time = 11205s
+  Heat ON - 20:20
+  Heat OFF - 20:24, cumulative run time = 11474s
+  Heat ON - 20:43
+  Heat OFF - 20:47, cumulative run time = 11761s
+  Heat ON - 21:04
+  Heat OFF - 21:09, cumulative run time = 12029s
+12-25-2013
+  Heat ON - 08:04
+  Heat OFF - 10:06, cumulative run time = 7274s
+  Heat ON - 12:19
+  Heat OFF - 12:47, cumulative run time = 8916s
+  Heat ON - 12:54
+  Heat OFF - 13:02, cumulative run time = 9395s
+  Heat ON - 16:04
+  Heat OFF - 16:15, cumulative run time = 10021s
+  Heat ON - 16:24
+  Heat OFF - 16:28, cumulative run time = 10276s
+  Heat ON - 16:46
+  Heat OFF - 16:50, cumulative run time = 10486s
+  Heat ON - 18:57
+  Heat OFF - 19:01, cumulative run time = 10753s
+  Heat ON - 19:31
+  Heat OFF - 19:35, cumulative run time = 11027s
+  Heat ON - 19:55
+  Heat OFF - 20:00, cumulative run time = 11299s
+  Heat ON - 20:20
+  Heat OFF - 20:24, cumulative run time = 11535s
+  Heat ON - 20:44
+  Heat OFF - 20:49, cumulative run time = 11836s
+  Heat ON - 21:07
+  Heat OFF - 21:09, cumulative run time = 11944s
+12-26-2013
+  Heat ON - 07:32
+  Heat OFF - 09:39, cumulative run time = 7595s
+  Heat ON - 16:52
+  Heat OFF - 17:45, cumulative run time = 10753s
+  Heat ON - 17:52
+  Heat OFF - 18:01, cumulative run time = 11322s
+  Heat ON - 18:10
+  Heat OFF - 18:17, cumulative run time = 11726s
+  Heat ON - 18:29
+  Heat OFF - 18:34, cumulative run time = 12023s
+  Heat ON - 18:43
+  Heat OFF - 18:48, cumulative run time = 12292s
+  Heat ON - 18:58
+  Heat OFF - 19:03, cumulative run time = 12593s
+  Heat ON - 19:15
+  Heat OFF - 19:19, cumulative run time = 12851s
+  Heat ON - 19:32
+  Heat OFF - 19:37, cumulative run time = 13136s
+  Heat ON - 19:54
+  Heat OFF - 19:58, cumulative run time = 13417s
+  Heat ON - 20:21
+  Heat OFF - 20:26, cumulative run time = 13746s
+  Heat ON - 20:46
+  Heat OFF - 20:51, cumulative run time = 14038s
+  Heat ON - 21:04
+  Heat OFF - 21:11, cumulative run time = 14433s
+  Heat ON - 21:34
+  Heat OFF - 21:40, cumulative run time = 14841s
+12-27-2013
+  Heat ON - 07:41
+  Heat OFF - 09:58, cumulative run time = 8204s
+  Heat ON - 10:04
+  Heat OFF - 10:14, cumulative run time = 8851s
+  Heat ON - 10:22
+  Heat OFF - 10:31, cumulative run time = 9380s
+  Heat ON - 10:40
+  Heat OFF - 10:47, cumulative run time = 9791s
+  Heat ON - 10:58
+  Heat OFF - 11:03, cumulative run time = 10101s
+  Heat ON - 11:15
+  Heat OFF - 11:21, cumulative run time = 10442s
+  Heat ON - 11:36
+  Heat OFF - 11:39, cumulative run time = 10607s
+  Heat ON - 15:18
+  Heat OFF - 15:28, cumulative run time = 11181s
+  Heat ON - 15:39
+  Heat OFF - 15:45, cumulative run time = 11544s
+  Heat ON - 16:04
+  Heat OFF - 16:08, cumulative run time = 11818s
+  Heat ON - 16:51
+  Heat OFF - 16:56, cumulative run time = 12106s
+  Heat ON - 17:20
+  Heat OFF - 17:25, cumulative run time = 12402s
+  Heat ON - 18:03
+  Heat OFF - 18:08, cumulative run time = 12716s
+  Heat ON - 19:31
+  Heat OFF - 19:35, cumulative run time = 12996s
+  Heat ON - 20:03
+  Heat OFF - 20:07, cumulative run time = 13234s
+  Heat ON - 20:32
+  Heat OFF - 20:36, cumulative run time = 13492s
+  Heat ON - 20:54
+  Heat OFF - 20:58, cumulative run time = 13765s
+  Heat ON - 21:16
+  Heat OFF - 21:21, cumulative run time = 14044s
+12-28-2013
+  Heat ON - 08:57
+  Heat OFF - 10:24, cumulative run time = 5221s
+  Heat ON - 12:33
+  Heat OFF - 13:01, cumulative run time = 6925s
+  Heat ON - 13:07
+  Heat OFF - 13:15, cumulative run time = 7416s
+  Heat ON - 13:24
+  Heat OFF - 13:30, cumulative run time = 7732s
+  Heat ON - 13:45
+  Heat OFF - 13:51, cumulative run time = 8092s
+  Heat ON - 14:19
+  Heat OFF - 14:24, cumulative run time = 8403s
+  Heat ON - 14:50
+  Heat OFF - 14:54, cumulative run time = 8617s
+  Heat ON - 17:35
+  Heat OFF - 17:40, cumulative run time = 8879s
+  Heat ON - 18:26
+  Heat OFF - 18:30, cumulative run time = 9098s
+  Heat ON - 19:01
+  Heat OFF - 19:05, cumulative run time = 9326s
+  Heat ON - 19:40
+  Heat OFF - 19:44, cumulative run time = 9608s
+  Heat ON - 20:05
+  Heat OFF - 20:09, cumulative run time = 9890s
+  Heat ON - 20:34
+  Heat OFF - 20:39, cumulative run time = 10221s
+  Heat ON - 20:59
+  Heat OFF - 21:04, cumulative run time = 10522s
+  Heat ON - 21:17
+  Heat OFF - 21:22, cumulative run time = 10795s
+  Heat ON - 21:37
+  Heat OFF - 21:41, cumulative run time = 11063s
+12-29-2013
+  Heat ON - 08:12
+  Heat OFF - 10:26, cumulative run time = 8034s
+  Heat ON - 10:32
+  Heat OFF - 10:41, cumulative run time = 8586s
+  Heat ON - 10:48
+  Heat OFF - 10:55, cumulative run time = 9026s
+  Heat ON - 11:04
+  Heat OFF - 11:12, cumulative run time = 9497s
+  Heat ON - 11:23
+  Heat OFF - 11:29, cumulative run time = 9899s
+  Heat ON - 11:43
+  Heat OFF - 11:48, cumulative run time = 10223s
+  Heat ON - 12:04
+  Heat OFF - 12:09, cumulative run time = 10542s
+  Heat ON - 12:24
+  Heat OFF - 12:29, cumulative run time = 10803s
+  Heat ON - 12:44
+  Heat OFF - 12:48, cumulative run time = 11027s
+  Heat ON - 13:08
+  Heat OFF - 13:13, cumulative run time = 11290s
+  Heat ON - 16:06
+  Heat OFF - 16:18, cumulative run time = 11997s
+  Heat ON - 16:28
+  Heat OFF - 16:33, cumulative run time = 12291s
+  Heat ON - 16:46
+  Heat OFF - 16:52, cumulative run time = 12644s
+  Heat ON - 17:07
+  Heat OFF - 17:12, cumulative run time = 12901s
+  Heat ON - 18:22
+  Heat OFF - 18:27, cumulative run time = 13218s
+  Heat ON - 18:55
+  Heat OFF - 18:59, cumulative run time = 13454s
+  Heat ON - 19:24
+  Heat OFF - 19:29, cumulative run time = 13697s
+  Heat ON - 19:51
+  Heat OFF - 19:55, cumulative run time = 13974s
+  Heat ON - 20:16
+  Heat OFF - 20:20, cumulative run time = 14231s
+  Heat ON - 20:40
+  Heat OFF - 20:47, cumulative run time = 14647s
+  Heat ON - 21:14
+  Heat OFF - 21:19, cumulative run time = 14921s
+12-30-2013
+  Heat ON - 08:14
+  Heat OFF - 10:12, cumulative run time = 7094s
+  Heat ON - 10:29
+  Heat OFF - 10:54, cumulative run time = 8618s
+  Heat ON - 11:02
+  Heat OFF - 11:12, cumulative run time = 9194s
+  Heat ON - 11:20
+  Heat OFF - 11:26, cumulative run time = 9568s
+  Heat ON - 11:36
+  Heat OFF - 11:38, cumulative run time = 9700s
+  Heat ON - 16:56
+  Heat OFF - 17:09, cumulative run time = 10465s
+  Heat ON - 17:21
+  Heat OFF - 17:27, cumulative run time = 10819s
+  Heat ON - 19:22
+  Heat OFF - 19:27, cumulative run time = 11113s
+  Heat ON - 19:59
+  Heat OFF - 20:04, cumulative run time = 11383s
+  Heat ON - 20:35
+  Heat OFF - 20:39, cumulative run time = 11665s
+  Heat ON - 21:04
+  Heat OFF - 21:08, cumulative run time = 11924s
+  Heat ON - 21:32
+  Heat OFF - 21:37, cumulative run time = 12223s
+  Heat ON - 21:57
+  Heat OFF - 22:02, cumulative run time = 12532s
+12-31-2013
+  Heat ON - 09:12
+  Heat OFF - 11:08, cumulative run time = 6972s
+  Heat ON - 14:54
+  Heat OFF - 15:18, cumulative run time = 1457s
+  Heat ON - 15:26
+  Heat OFF - 15:31, cumulative run time = 1787s
+  Heat ON - 15:39
+  Heat OFF - 15:46, cumulative run time = 2218s
+  Heat ON - 15:59
+  Heat OFF - 16:05, cumulative run time = 2561s
+  Heat ON - 16:23
+  Heat OFF - 16:26, cumulative run time = 2742s
+  Heat ON - 17:15
+  Heat OFF - 17:18, cumulative run time = 2974s
+  Heat ON - 19:36
+  Heat OFF - 19:42, cumulative run time = 3299s
+  Heat ON - 20:09
+  Heat OFF - 20:14, cumulative run time = 3594s
+1-1-2014
+  Heat ON - 07:23
+  Heat OFF - 09:26, cumulative run time = 7422s
+  Heat ON - 10:37
+  Heat OFF - 11:02, cumulative run time = 8914s
+  Heat ON - 11:08
+  Heat OFF - 11:17, cumulative run time = 9452s
+  Heat ON - 11:25
+  Heat OFF - 11:33, cumulative run time = 9930s
+  Heat ON - 11:45
+  Heat OFF - 11:51, cumulative run time = 10284s
+  Heat ON - 12:08
+  Heat OFF - 12:12, cumulative run time = 10556s
+  Heat ON - 12:30
+  Heat OFF - 12:34, cumulative run time = 10808s
+  Heat ON - 12:52
+  Heat OFF - 12:56, cumulative run time = 11086s
+  Heat ON - 13:17
+  Heat OFF - 13:22, cumulative run time = 11356s
+  Heat ON - 13:46
+  Heat OFF - 13:49, cumulative run time = 11558s
+  Heat ON - 14:37
+  Heat OFF - 14:41, cumulative run time = 11800s
+  Heat ON - 15:09
+  Heat OFF - 15:12, cumulative run time = 12001s
+  Heat ON - 20:08
+  Heat OFF - 20:15, cumulative run time = 12380s
+  Heat ON - 20:30
+  Heat OFF - 20:34, cumulative run time = 12643s
+  Heat ON - 21:01
+  Heat OFF - 21:06, cumulative run time = 12966s
+1-2-2014
+  Heat ON - 09:37
+  Heat OFF - 11:10, cumulative run time = 5569s
+  Heat ON - 13:36
+  Heat OFF - 15:04, cumulative run time = 10807s
+1-3-2014
+  Heat ON - 07:49
+  Heat OFF - 10:20, cumulative run time = 9090s
+  Heat ON - 18:55
+  Heat OFF - 19:04, cumulative run time = 9656s
+  Heat ON - 19:13
+  Heat OFF - 19:20, cumulative run time = 10061s
+  Heat ON - 19:32
+  Heat OFF - 19:37, cumulative run time = 10372s
+  Heat ON - 19:58
+  Heat OFF - 20:03, cumulative run time = 10666s
+  Heat ON - 20:24
+  Heat OFF - 20:29, cumulative run time = 10968s
+  Heat ON - 20:49
+  Heat OFF - 20:55, cumulative run time = 11340s
+  Heat ON - 21:19
+  Heat OFF - 21:24, cumulative run time = 11650s
+1-4-2014
+  Heat ON - 07:28
+  Heat OFF - 09:12, cumulative run time = 6231s
+  Heat ON - 09:18
+  Heat OFF - 09:29, cumulative run time = 6866s
+  Heat ON - 09:37
+  Heat OFF - 09:46, cumulative run time = 7401s
+  Heat ON - 09:54
+  Heat OFF - 10:00, cumulative run time = 7768s
+  Heat ON - 10:09
+  Heat OFF - 10:16, cumulative run time = 8190s
+  Heat ON - 10:27
+  Heat OFF - 10:33, cumulative run time = 8533s
+  Heat ON - 16:41
+  Heat OFF - 16:54, cumulative run time = 9325s
+  Heat ON - 17:07
+  Heat OFF - 17:12, cumulative run time = 9623s
+  Heat ON - 19:15
+  Heat OFF - 19:20, cumulative run time = 9929s
+  Heat ON - 19:41
+  Heat OFF - 19:45, cumulative run time = 10203s
+  Heat ON - 20:20
+  Heat OFF - 20:25, cumulative run time = 10490s
+  Heat ON - 20:44
+  Heat OFF - 20:49, cumulative run time = 10778s
+1-5-2014
+  Heat ON - 06:49
+  Heat OFF - 07:14, cumulative run time = 1490s
+  Heat ON - 09:30
+  Heat OFF - 11:07, cumulative run time = 7320s
+  Heat ON - 11:13
+  Heat OFF - 11:24, cumulative run time = 7975s
+  Heat ON - 11:31
+  Heat OFF - 11:40, cumulative run time = 8509s
+  Heat ON - 11:49
+  Heat OFF - 11:56, cumulative run time = 8947s
+  Heat ON - 12:07
+  Heat OFF - 12:13, cumulative run time = 9287s
+  Heat ON - 12:24
+  Heat OFF - 12:29, cumulative run time = 9584s
+  Heat ON - 12:40
+  Heat OFF - 12:46, cumulative run time = 9934s
+  Heat ON - 13:02
+  Heat OFF - 13:08, cumulative run time = 10258s
+  Heat ON - 13:27
+  Heat OFF - 13:32, cumulative run time = 10512s
+  Heat ON - 13:53
+  Heat OFF - 13:57, cumulative run time = 10741s
+  Heat ON - 14:14
+  Heat OFF - 14:18, cumulative run time = 10953s
+  Heat ON - 14:38
+  Heat OFF - 14:42, cumulative run time = 11183s
+  Heat ON - 15:03
+  Heat OFF - 15:06, cumulative run time = 11384s
+  Heat ON - 15:26
+  Heat OFF - 15:29, cumulative run time = 11588s
+  Heat ON - 17:45
+  Heat OFF - 17:54, cumulative run time = 12138s
+  Heat ON - 18:11
+  Heat OFF - 18:14, cumulative run time = 12361s
+  Heat ON - 19:10
+  Heat OFF - 19:15, cumulative run time = 12641s
+  Heat ON - 19:58
+  Heat OFF - 20:03, cumulative run time = 12896s
+  Heat ON - 20:44
+  Heat OFF - 20:49, cumulative run time = 13168s
+  Heat ON - 21:13
+  Heat OFF - 21:17, cumulative run time = 13439s
+1-6-2014
+  Heat ON - 06:42
+  Heat OFF - 07:07, cumulative run time = 1495s
+  Heat ON - 13:08
+  Heat OFF - 14:07, cumulative run time = 5063s
+  Heat ON - 14:14
+  Heat OFF - 14:22, cumulative run time = 5529s
+  Heat ON - 14:31
+  Heat OFF - 14:38, cumulative run time = 5946s
+  Heat ON - 14:49
+  Heat OFF - 14:54, cumulative run time = 6256s
+  Heat ON - 15:11
+  Heat OFF - 15:15, cumulative run time = 6521s
+  Heat ON - 15:33
+  Heat OFF - 15:37, cumulative run time = 6736s
+  Heat ON - 16:05
+  Heat OFF - 16:08, cumulative run time = 6949s
+  Heat ON - 19:39
+  Heat OFF - 19:44, cumulative run time = 7240s
+  Heat ON - 20:20
+  Heat OFF - 20:24, cumulative run time = 7509s
+  Heat ON - 20:49
+  Heat OFF - 20:54, cumulative run time = 7804s
+1-7-2014
+  Heat ON - 13:55
+  Heat OFF - 14:33, cumulative run time = 2250s
+  Heat ON - 14:40
+  Heat OFF - 14:48, cumulative run time = 2726s
+  Heat ON - 15:04
+  Heat OFF - 15:09, cumulative run time = 3044s
+  Heat ON - 18:34
+  Heat OFF - 18:42, cumulative run time = 3506s
+  Heat ON - 18:58
+  Heat OFF - 19:01, cumulative run time = 3733s
+  Heat ON - 19:39
+  Heat OFF - 19:44, cumulative run time = 4007s
+  Heat ON - 20:49
+  Heat OFF - 20:53, cumulative run time = 4289s
+  Heat ON - 21:18
+  Heat OFF - 21:23, cumulative run time = 4583s
+  Heat ON - 21:40
+  Heat OFF - 21:44, cumulative run time = 4850s
+1-8-2014
+  Heat ON - 06:59
+  Heat OFF - 07:13, cumulative run time = 837s
+  Heat ON - 07:51
+  Heat OFF - 08:33, cumulative run time = 3382s
+  Heat ON - 08:39
+  Heat OFF - 08:40, cumulative run time = 3442s
+  Heat ON - 17:54
+  Heat OFF - 18:08, cumulative run time = 4332s
+  Heat ON - 18:29
+  Heat OFF - 18:33, cumulative run time = 4627s
+  Heat ON - 19:00
+  Heat OFF - 19:04, cumulative run time = 4841s
+  Heat ON - 19:55
+  Heat OFF - 20:00, cumulative run time = 5148s
+  Heat ON - 20:42
+  Heat OFF - 20:47, cumulative run time = 5420s
+1-9-2014
+  Heat ON - 10:06
+  Heat OFF - 11:27, cumulative run time = 4848s
+  Heat ON - 11:34
+  Heat OFF - 11:43, cumulative run time = 5404s
+  Heat ON - 11:52
+  Heat OFF - 12:00, cumulative run time = 5863s
+  Heat ON - 12:10
+  Heat OFF - 12:16, cumulative run time = 6199s
+  Heat ON - 12:30
+  Heat OFF - 12:34, cumulative run time = 6476s
+  Heat ON - 12:56
+  Heat OFF - 13:02, cumulative run time = 6808s
+  Heat ON - 13:48
+  Heat OFF - 13:52, cumulative run time = 7060s
+  Heat ON - 14:26
+  Heat OFF - 14:30, cumulative run time = 7336s
+  Heat ON - 15:28
+  Heat OFF - 15:33, cumulative run time = 7607s
+  Heat ON - 17:13
+  Heat OFF - 17:20, cumulative run time = 7985s
+  Heat ON - 20:27
+  Heat OFF - 20:33, cumulative run time = 8314s
+1-10-2014
+  Heat ON - 07:16
+  Heat OFF - 08:32, cumulative run time = 4583s
+  Heat ON - 08:39
+  Heat OFF - 08:49, cumulative run time = 5209s
+  Heat ON - 08:56
+  Heat OFF - 09:05, cumulative run time = 5731s
+  Heat ON - 09:15
+  Heat OFF - 09:22, cumulative run time = 6138s
+  Heat ON - 09:31
+  Heat OFF - 09:37, cumulative run time = 6455s
+  Heat ON - 09:48
+  Heat OFF - 09:54, cumulative run time = 6788s
+  Heat ON - 10:06
+  Heat OFF - 10:11, cumulative run time = 7065s
+  Heat ON - 10:26
+  Heat OFF - 10:32, cumulative run time = 7417s
+  Heat ON - 10:47
+  Heat OFF - 10:52, cumulative run time = 7702s
+  Heat ON - 11:07
+  Heat OFF - 11:09, cumulative run time = 7787s
+  Heat ON - 14:08
+  Heat OFF - 14:17, cumulative run time = 8371s
+  Heat ON - 14:25
+  Heat OFF - 14:31, cumulative run time = 8701s
+  Heat ON - 14:47
+  Heat OFF - 14:51, cumulative run time = 8945s
+  Heat ON - 15:23
+  Heat OFF - 15:27, cumulative run time = 9198s
+  Heat ON - 15:52
+  Heat OFF - 15:57, cumulative run time = 9463s
+  Heat ON - 16:41
+  Heat OFF - 16:45, cumulative run time = 9737s
+  Heat ON - 17:34
+  Heat OFF - 17:38, cumulative run time = 9944s
+  Heat ON - 19:53
+  Heat OFF - 19:58, cumulative run time = 10212s
+  Heat ON - 20:21
+  Heat OFF - 20:25, cumulative run time = 10453s
+  Heat ON - 20:57
+  Heat OFF - 21:01, cumulative run time = 10703s
+  Heat ON - 21:26
+  Heat OFF - 21:30, cumulative run time = 10965s
+1-11-2014
+  Heat ON - 07:36
+  Heat OFF - 09:10, cumulative run time = 5667s
+  Heat ON - 09:16
+  Heat OFF - 09:28, cumulative run time = 6376s
+  Heat ON - 09:35
+  Heat OFF - 09:43, cumulative run time = 6882s
+  Heat ON - 09:53
+  Heat OFF - 09:59, cumulative run time = 7253s
+  Heat ON - 10:12
+  Heat OFF - 10:18, cumulative run time = 7627s
+  Heat ON - 10:32
+  Heat OFF - 10:37, cumulative run time = 7935s
+  Heat ON - 10:58
+  Heat OFF - 11:00, cumulative run time = 8030s
+  Heat ON - 18:15
+  Heat OFF - 18:28, cumulative run time = 8813s
+  Heat ON - 18:38
+  Heat OFF - 18:42, cumulative run time = 9046s
+  Heat ON - 19:04
+  Heat OFF - 19:11, cumulative run time = 9414s
+  Heat ON - 19:42
+  Heat OFF - 19:48, cumulative run time = 9776s
+  Heat ON - 20:12
+  Heat OFF - 20:17, cumulative run time = 10109s
+1-12-2014
+  Heat ON - 11:01
+  Heat OFF - 12:04, cumulative run time = 3769s
+  Heat ON - 12:10
+  Heat OFF - 12:19, cumulative run time = 4327s
+  Heat ON - 12:28
+  Heat OFF - 12:35, cumulative run time = 4757s
+  Heat ON - 12:47
+  Heat OFF - 12:52, cumulative run time = 5077s
+  Heat ON - 13:07
+  Heat OFF - 13:12, cumulative run time = 5386s
+  Heat ON - 13:30
+  Heat OFF - 13:34, cumulative run time = 5643s
+  Heat ON - 14:08
+  Heat OFF - 14:12, cumulative run time = 5899s
+  Heat ON - 15:10
+  Heat OFF - 15:14, cumulative run time = 6129s
+  Heat ON - 16:27
+  Heat OFF - 16:30, cumulative run time = 6346s
+  Heat ON - 17:15
+  Heat OFF - 17:18, cumulative run time = 6563s
+  Heat ON - 17:53
+  Heat OFF - 17:58, cumulative run time = 6838s
+  Heat ON - 20:10
+  Heat OFF - 20:16, cumulative run time = 7151s
+  Heat ON - 20:52
+  Heat OFF - 20:56, cumulative run time = 7378s
+1-13-2014
+  Heat ON - 06:54
+  Heat OFF - 07:23, cumulative run time = 1729s
+  Heat ON - 12:01
+  Heat OFF - 13:01, cumulative run time = 5293s
+  Heat ON - 13:07
+  Heat OFF - 13:16, cumulative run time = 5842s
+  Heat ON - 13:24
+  Heat OFF - 13:30, cumulative run time = 6154s
+  Heat ON - 13:38
+  Heat OFF - 13:44, cumulative run time = 6517s
+  Heat ON - 13:56
+  Heat OFF - 14:01, cumulative run time = 6808s
+  Heat ON - 14:23
+  Heat OFF - 14:27, cumulative run time = 7068s
+  Heat ON - 15:11
+  Heat OFF - 15:15, cumulative run time = 7348s
+  Heat ON - 16:30
+  Heat OFF - 16:33, cumulative run time = 7572s
+  Heat ON - 20:14
+  Heat OFF - 20:19, cumulative run time = 7878s
+  Heat ON - 20:52
+  Heat OFF - 20:54, cumulative run time = 8017s
+1-14-2014
+  Heat ON - 07:03
+  Heat OFF - 07:39, cumulative run time = 2160s
+  Heat ON - 10:06
+  Heat OFF - 11:17, cumulative run time = 6416s
+  Heat ON - 11:23
+  Heat OFF - 11:33, cumulative run time = 7023s
+  Heat ON - 11:42
+  Heat OFF - 11:49, cumulative run time = 7427s
+  Heat ON - 11:59
+  Heat OFF - 12:05, cumulative run time = 7771s
+  Heat ON - 12:19
+  Heat OFF - 12:23, cumulative run time = 8024s
+  Heat ON - 12:44
+  Heat OFF - 12:49, cumulative run time = 8296s
+  Heat ON - 13:16
+  Heat OFF - 13:20, cumulative run time = 8534s
+  Heat ON - 13:53
+  Heat OFF - 13:56, cumulative run time = 8742s
+  Heat ON - 14:47
+  Heat OFF - 14:50, cumulative run time = 8947s
+1-15-2014
+  Heat ON - 07:00
+  Heat OFF - 07:54, cumulative run time = 3210s
+  Heat ON - 10:40
+  Heat OFF - 11:25, cumulative run time = 5934s
+  Heat ON - 12:25
+  Heat OFF - 12:42, cumulative run time = 6991s
+  Heat ON - 12:50
+  Heat OFF - 12:57, cumulative run time = 7426s
+  Heat ON - 13:08
+  Heat OFF - 13:13, cumulative run time = 7711s
+  Heat ON - 13:29
+  Heat OFF - 13:33, cumulative run time = 7952s
+  Heat ON - 13:49
+  Heat OFF - 13:53, cumulative run time = 8198s
+  Heat ON - 14:38
+  Heat OFF - 14:42, cumulative run time = 8423s
+  Heat ON - 15:34
+  Heat OFF - 15:37, cumulative run time = 8618s
+  Heat ON - 20:46
+  Heat OFF - 20:52, cumulative run time = 8956s
+  Heat ON - 21:13
+  Heat OFF - 21:18, cumulative run time = 9227s
+1-16-2014
+  Heat ON - 07:06
+  Heat OFF - 07:30, cumulative run time = 1458s
+  Heat ON - 09:29
+  Heat OFF - 11:05, cumulative run time = 7230s
+  Heat ON - 11:10
+  Heat OFF - 11:21, cumulative run time = 7852s
+  Heat ON - 11:29
+  Heat OFF - 11:36, cumulative run time = 8292s
+  Heat ON - 11:46
+  Heat OFF - 11:53, cumulative run time = 8702s
+  Heat ON - 12:05
+  Heat OFF - 12:10, cumulative run time = 8975s
+  Heat ON - 12:25
+  Heat OFF - 12:29, cumulative run time = 9229s
+  Heat ON - 12:55
+  Heat OFF - 13:00, cumulative run time = 9504s
+  Heat ON - 13:25
+  Heat OFF - 13:30, cumulative run time = 9770s
+  Heat ON - 14:18
+  Heat OFF - 14:21, cumulative run time = 9984s
+  Heat ON - 20:15
+  Heat OFF - 20:22, cumulative run time = 10418s
+  Heat ON - 20:51
+  Heat OFF - 20:55, cumulative run time = 10680s
+  Heat ON - 21:32
+  Heat OFF - 21:37, cumulative run time = 11008s
+1-17-2014
+  Heat ON - 07:55
+  Heat OFF - 09:41, cumulative run time = 6375s
+  Heat ON - 09:46
+  Heat OFF - 09:56, cumulative run time = 6926s
+  Heat ON - 10:01
+  Heat OFF - 10:11, cumulative run time = 7521s
+  Heat ON - 10:18
+  Heat OFF - 10:24, cumulative run time = 7903s
+  Heat ON - 10:31
+  Heat OFF - 10:39, cumulative run time = 8343s
+  Heat ON - 10:48
+  Heat OFF - 10:55, cumulative run time = 8762s
+  Heat ON - 11:07
+  Heat OFF - 11:13, cumulative run time = 9091s
+  Heat ON - 12:08
+  Heat OFF - 12:12, cumulative run time = 9378s
+  Heat ON - 18:10
+  Heat OFF - 18:15, cumulative run time = 289s
+1-18-2014
+  Heat ON - 08:13
+  Heat OFF - 10:12, cumulative run time = 7134s
+  Heat ON - 11:58
+  Heat OFF - 12:28, cumulative run time = 8909s
+  Heat ON - 12:35
+  Heat OFF - 12:43, cumulative run time = 9375s
+  Heat ON - 12:57
+  Heat OFF - 13:01, cumulative run time = 9632s
+  Heat ON - 13:19
+  Heat OFF - 13:24, cumulative run time = 9907s
+  Heat ON - 14:16
+  Heat OFF - 14:17, cumulative run time = 9967s
+  Heat ON - 19:36
+  Heat OFF - 19:44, cumulative run time = 503s
+  Heat ON - 20:08
+  Heat OFF - 20:13, cumulative run time = 802s
+  Heat ON - 20:47
+  Heat OFF - 20:49, cumulative run time = 920s
+1-19-2014
+  Heat ON - 08:01
+  Heat OFF - 10:02, cumulative run time = 7291s
+  Heat ON - 16:44
+  Heat OFF - 16:55, cumulative run time = 7960s
+  Heat ON - 17:08
+  Heat OFF - 17:12, cumulative run time = 8240s
+  Heat ON - 17:27
+  Heat OFF - 17:33, cumulative run time = 8592s
+  Heat ON - 19:51
+  Heat OFF - 19:56, cumulative run time = 8896s
+  Heat ON - 20:21
+  Heat OFF - 20:26, cumulative run time = 9178s
+1-20-2014
+  Heat ON - 06:55
+  Heat OFF - 08:14, cumulative run time = 4782s
+  Heat ON - 11:58
+  Heat OFF - 12:53, cumulative run time = 8088s
+  Heat ON - 12:59
+  Heat OFF - 13:07, cumulative run time = 8573s
+  Heat ON - 13:16
+  Heat OFF - 13:23, cumulative run time = 8970s
+  Heat ON - 13:34
+  Heat OFF - 13:39, cumulative run time = 9305s
+1-21-2014
+  Heat ON - 06:48
+  Heat OFF - 08:52, cumulative run time = 7431s
+  Heat ON - 08:59
+  Heat OFF - 09:10, cumulative run time = 8106s
+  Heat ON - 09:17
+  Heat OFF - 09:26, cumulative run time = 8642s
+  Heat ON - 09:34
+  Heat OFF - 09:41, cumulative run time = 9061s
+  Heat ON - 09:50
+  Heat OFF - 09:56, cumulative run time = 9456s
+  Heat ON - 10:07
+  Heat OFF - 10:13, cumulative run time = 9812s
+  Heat ON - 10:25
+  Heat OFF - 10:30, cumulative run time = 10103s
+  Heat ON - 10:42
+  Heat OFF - 10:47, cumulative run time = 10369s
+  Heat ON - 11:01
+  Heat OFF - 11:05, cumulative run time = 10637s
+  Heat ON - 11:22
+  Heat OFF - 11:26, cumulative run time = 10879s
+  Heat ON - 11:45
+  Heat OFF - 11:48, cumulative run time = 11093s
+  Heat ON - 12:21
+  Heat OFF - 12:25, cumulative run time = 11320s
+1-22-2014
+  Heat ON - 07:03
+  Heat OFF - 08:40, cumulative run time = 5810s
+  Heat ON - 08:46
+  Heat OFF - 08:57, cumulative run time = 6442s
+  Heat ON - 09:04
+  Heat OFF - 09:13, cumulative run time = 6960s
+  Heat ON - 09:21
+  Heat OFF - 09:29, cumulative run time = 7397s
+  Heat ON - 09:41
+  Heat OFF - 09:47, cumulative run time = 7799s
+  Heat ON - 10:00
+  Heat OFF - 10:05, cumulative run time = 8095s
+  Heat ON - 10:19
+  Heat OFF - 10:24, cumulative run time = 8398s
+  Heat ON - 10:42
+  Heat OFF - 10:47, cumulative run time = 8679s
+  Heat ON - 11:07
+  Heat OFF - 11:11, cumulative run time = 8937s
+  Heat ON - 18:49
+  Heat OFF - 18:54, cumulative run time = 9257s
+  Heat ON - 19:26
+  Heat OFF - 19:31, cumulative run time = 9546s
+  Heat ON - 20:31
+  Heat OFF - 20:35, cumulative run time = 9827s
+1-23-2014
+  Heat ON - 06:58
+  Heat OFF - 08:36, cumulative run time = 5882s
+  Heat ON - 08:42
+  Heat OFF - 08:53, cumulative run time = 6529s
+  Heat ON - 09:00
+  Heat OFF - 09:08, cumulative run time = 7013s
+  Heat ON - 09:18
+  Heat OFF - 09:26, cumulative run time = 7470s
+  Heat ON - 09:37
+  Heat OFF - 09:44, cumulative run time = 7878s
+  Heat ON - 09:54
+  Heat OFF - 10:00, cumulative run time = 8248s
+  Heat ON - 10:11
+  Heat OFF - 10:15, cumulative run time = 8527s
+  Heat ON - 10:25
+  Heat OFF - 10:29, cumulative run time = 8801s
+  Heat ON - 10:41
+  Heat OFF - 10:45, cumulative run time = 9075s
+  Heat ON - 11:01
+  Heat OFF - 11:04, cumulative run time = 9297s
+  Heat ON - 11:20
+  Heat OFF - 11:23, cumulative run time = 9523s
+  Heat ON - 11:40
+  Heat OFF - 11:43, cumulative run time = 9724s
+  Heat ON - 12:06
+  Heat OFF - 12:09, cumulative run time = 9935s
+  Heat ON - 15:28
+  Heat OFF - 15:31, cumulative run time = 10139s
+  Heat ON - 17:46
+  Heat OFF - 17:50, cumulative run time = 10392s
+  Heat ON - 19:59
+  Heat OFF - 20:04, cumulative run time = 10635s
+  Heat ON - 21:00
+  Heat OFF - 21:05, cumulative run time = 10933s
+1-24-2014
+  Heat ON - 07:40
+  Heat OFF - 08:57, cumulative run time = 4662s
+  Heat ON - 09:03
+  Heat OFF - 09:15, cumulative run time = 5391s
+  Heat ON - 09:23
+  Heat OFF - 09:30, cumulative run time = 5836s
+  Heat ON - 09:39
+  Heat OFF - 09:46, cumulative run time = 6248s
+  Heat ON - 09:57
+  Heat OFF - 10:03, cumulative run time = 6607s
+  Heat ON - 10:19
+  Heat OFF - 10:23, cumulative run time = 6864s
+1-25-2014
+  Heat ON - 07:39
+  Heat OFF - 08:52, cumulative run time = 4372s
+  Heat ON - 08:58
+  Heat OFF - 09:07, cumulative run time = 4887s
+  Heat ON - 09:14
+  Heat OFF - 09:22, cumulative run time = 5329s
+  Heat ON - 09:31
+  Heat OFF - 09:38, cumulative run time = 5731s
+  Heat ON - 09:51
+  Heat OFF - 09:56, cumulative run time = 6041s
+  Heat ON - 10:12
+  Heat OFF - 10:16, cumulative run time = 6304s
+  Heat ON - 10:35
+  Heat OFF - 10:40, cumulative run time = 6609s
+1-26-2014
+  Heat ON - 06:50
+  Heat OFF - 07:48, cumulative run time = 3481s
+  Heat ON - 08:24
+  Heat OFF - 08:54, cumulative run time = 5287s
+  Heat ON - 09:00
+  Heat OFF - 09:10, cumulative run time = 5884s
+  Heat ON - 09:18
+  Heat OFF - 09:25, cumulative run time = 6298s
+  Heat ON - 09:35
+  Heat OFF - 09:40, cumulative run time = 6586s
+  Heat ON - 09:50
+  Heat OFF - 09:56, cumulative run time = 6972s
+  Heat ON - 10:09
+  Heat OFF - 10:15, cumulative run time = 7340s
+  Heat ON - 10:31
+  Heat OFF - 10:36, cumulative run time = 7629s
+  Heat ON - 10:55
+  Heat OFF - 10:57, cumulative run time = 7709s
+  Heat ON - 12:07
+  Heat OFF - 12:15, cumulative run time = 8185s
+  Heat ON - 12:32
+  Heat OFF - 12:36, cumulative run time = 8424s
+  Heat ON - 13:25
+  Heat OFF - 13:28, cumulative run time = 8605s
+  Heat ON - 14:54
+  Heat OFF - 14:57, cumulative run time = 8781s
+1-27-2014
+1-28-2014
+  Heat ON - 17:15
+  Heat OFF - 17:21, cumulative run time = 378s
+  Heat ON - 17:43
+  Heat OFF - 17:48, cumulative run time = 636s
+1-29-2014
+  Heat ON - 11:28
+  Heat OFF - 11:57, cumulative run time = 1745s
+  Heat ON - 12:04
+  Heat OFF - 12:11, cumulative run time = 2191s
+  Heat ON - 12:22
+  Heat OFF - 12:26, cumulative run time = 2471s
+  Heat ON - 12:49
+  Heat OFF - 12:52, cumulative run time = 2679s
+  Heat ON - 13:35
+  Heat OFF - 13:39, cumulative run time = 2904s
+  Heat ON - 16:04
+  Heat OFF - 16:07, cumulative run time = 3129s
+  Heat ON - 16:55
+  Heat OFF - 16:59, cumulative run time = 3350s
+  Heat ON - 17:29
+  Heat OFF - 17:33, cumulative run time = 3575s
+  Heat ON - 18:59
+  Heat OFF - 19:03, cumulative run time = 3827s
+  Heat ON - 19:52
+  Heat OFF - 19:56, cumulative run time = 4076s
+1-30-2014
+  Heat ON - 11:12
+  Heat OFF - 12:09, cumulative run time = 3416s
+  Heat ON - 12:15
+  Heat OFF - 12:24, cumulative run time = 3955s
+  Heat ON - 12:35
+  Heat OFF - 12:42, cumulative run time = 4345s
+  Heat ON - 12:59
+  Heat OFF - 13:03, cumulative run time = 4615s
+  Heat ON - 13:30
+  Heat OFF - 13:34, cumulative run time = 4850s
+  Heat ON - 14:06
+  Heat OFF - 14:11, cumulative run time = 5103s
+  Heat ON - 14:37
+  Heat OFF - 14:40, cumulative run time = 5308s
+  Heat ON - 20:49
+  Heat OFF - 20:53, cumulative run time = 5581s
+1-31-2014
+  Heat ON - 07:13
+  Heat OFF - 09:08, cumulative run time = 6896s
+  Heat ON - 09:14
+  Heat OFF - 09:28, cumulative run time = 7741s
+  Heat ON - 09:36
+  Heat OFF - 09:44, cumulative run time = 8202s
+  Heat ON - 16:34
+  Heat OFF - 16:56, cumulative run time = 9566s
+  Heat ON - 17:04
+  Heat OFF - 17:11, cumulative run time = 10001s
+  Heat ON - 17:24
+  Heat OFF - 17:29, cumulative run time = 10281s
+  Heat ON - 17:41
+  Heat OFF - 17:45, cumulative run time = 10530s
+  Heat ON - 18:03
+  Heat OFF - 18:06, cumulative run time = 10737s
+  Heat ON - 18:34
+  Heat OFF - 18:39, cumulative run time = 11011s
+2-1-2014
+  Heat ON - 08:14
+  Heat OFF - 10:01, cumulative run time = 6391s
+  Heat ON - 10:06
+  Heat OFF - 10:17, cumulative run time = 7014s
+  Heat ON - 10:25
+  Heat OFF - 10:36, cumulative run time = 7687s
+  Heat ON - 10:44
+  Heat OFF - 10:52, cumulative run time = 8185s
+  Heat ON - 11:03
+  Heat OFF - 11:10, cumulative run time = 8632s
+  Heat ON - 11:21
+  Heat OFF - 11:27, cumulative run time = 9001s
+  Heat ON - 11:48
+  Heat OFF - 11:53, cumulative run time = 9334s
+  Heat ON - 12:29
+  Heat OFF - 12:35, cumulative run time = 9698s
+  Heat ON - 12:50
+  Heat OFF - 12:54, cumulative run time = 9994s
+  Heat ON - 13:09
+  Heat OFF - 13:15, cumulative run time = 10371s
+  Heat ON - 13:39
+  Heat OFF - 13:44, cumulative run time = 10677s
+  Heat ON - 19:59
+  Heat OFF - 20:21, cumulative run time = 12013s
+2-2-2014
+  Heat ON - 07:00
+  Heat OFF - 07:28, cumulative run time = 1679s
+  Heat ON - 09:29
+  Heat OFF - 10:49, cumulative run time = 6491s
+  Heat ON - 10:55
+  Heat OFF - 11:07, cumulative run time = 7231s
+  Heat ON - 11:14
+  Heat OFF - 11:23, cumulative run time = 7767s
+  Heat ON - 11:32
+  Heat OFF - 11:39, cumulative run time = 8176s
+  Heat ON - 11:50
+  Heat OFF - 11:56, cumulative run time = 8552s
+  Heat ON - 12:09
+  Heat OFF - 12:15, cumulative run time = 8906s
+  Heat ON - 12:33
+  Heat OFF - 12:38, cumulative run time = 9195s
+  Heat ON - 13:00
+  Heat OFF - 13:05, cumulative run time = 9465s
+  Heat ON - 13:22
+  Heat OFF - 13:27, cumulative run time = 9753s
+  Heat ON - 13:53
+  Heat OFF - 13:58, cumulative run time = 10068s
+  Heat ON - 14:30
+  Heat OFF - 14:35, cumulative run time = 10344s
+  Heat ON - 17:50
+  Heat OFF - 17:57, cumulative run time = 10767s
+  Heat ON - 19:04
+  Heat OFF - 19:08, cumulative run time = 10999s
+  Heat ON - 19:28
+  Heat OFF - 19:32, cumulative run time = 11233s
+  Heat ON - 19:54
+  Heat OFF - 19:58, cumulative run time = 11517s
+  Heat ON - 20:25
+  Heat OFF - 20:30, cumulative run time = 11791s
+  Heat ON - 20:58
+  Heat OFF - 21:03, cumulative run time = 12092s
+  Heat ON - 21:24
+  Heat OFF - 21:28, cumulative run time = 12310s
+2-3-2014
+  Heat ON - 06:40
+  Heat OFF - 07:07, cumulative run time = 1597s
+  Heat ON - 11:54
+  Heat OFF - 13:06, cumulative run time = 5899s
+  Heat ON - 13:12
+  Heat OFF - 13:23, cumulative run time = 6596s
+  Heat ON - 13:31
+  Heat OFF - 13:38, cumulative run time = 7018s
+  Heat ON - 18:16
+  Heat OFF - 18:31, cumulative run time = 7898s
+  Heat ON - 18:39
+  Heat OFF - 18:43, cumulative run time = 8182s
+  Heat ON - 18:53
+  Heat OFF - 18:58, cumulative run time = 8474s
+  Heat ON - 19:16
+  Heat OFF - 19:21, cumulative run time = 8824s
+  Heat ON - 19:32
+  Heat OFF - 19:38, cumulative run time = 9165s
+  Heat ON - 20:04
+  Heat OFF - 20:08, cumulative run time = 9427s
+  Heat ON - 20:29
+  Heat OFF - 20:34, cumulative run time = 9701s
+  Heat ON - 20:57
+  Heat OFF - 21:02, cumulative run time = 9993s
+2-4-2014
+  Heat ON - 09:47
+  Heat OFF - 11:29, cumulative run time = 6133s
+  Heat ON - 11:35
+  Heat OFF - 11:46, cumulative run time = 6757s
+  Heat ON - 11:53
+  Heat OFF - 12:01, cumulative run time = 7256s
+  Heat ON - 12:12
+  Heat OFF - 12:19, cumulative run time = 7667s
+  Heat ON - 12:29
+  Heat OFF - 12:35, cumulative run time = 8048s
+  Heat ON - 12:48
+  Heat OFF - 12:54, cumulative run time = 8393s
+  Heat ON - 13:10
+  Heat OFF - 13:15, cumulative run time = 8668s
+  Heat ON - 13:28
+  Heat OFF - 13:33, cumulative run time = 8957s
+  Heat ON - 13:54
+  Heat OFF - 13:59, cumulative run time = 9257s
+  Heat ON - 14:18
+  Heat OFF - 14:23, cumulative run time = 9560s
+  Heat ON - 14:44
+  Heat OFF - 14:49, cumulative run time = 9842s
+  Heat ON - 15:08
+  Heat OFF - 15:12, cumulative run time = 10125s
+  Heat ON - 15:40
+  Heat OFF - 15:44, cumulative run time = 10402s
+  Heat ON - 16:10
+  Heat OFF - 16:16, cumulative run time = 10734s
+  Heat ON - 16:59
+  Heat OFF - 17:04, cumulative run time = 11062s
+  Heat ON - 17:57
+  Heat OFF - 18:01, cumulative run time = 11298s
+  Heat ON - 18:27
+  Heat OFF - 18:31, cumulative run time = 11536s
+  Heat ON - 18:55
+  Heat OFF - 18:59, cumulative run time = 11763s
+  Heat ON - 19:31
+  Heat OFF - 19:35, cumulative run time = 11993s
+  Heat ON - 20:09
+  Heat OFF - 20:14, cumulative run time = 12249s
+  Heat ON - 21:01
+  Heat OFF - 21:06, cumulative run time = 12515s
+2-5-2014
+  Heat ON - 06:47
+  Heat OFF - 07:44, cumulative run time = 3407s
+  Heat ON - 07:49
+  Heat OFF - 08:00, cumulative run time = 4063s
+  Heat ON - 09:18
+  Heat OFF - 09:38, cumulative run time = 5249s
+  Heat ON - 09:45
+  Heat OFF - 09:53, cumulative run time = 5741s
+  Heat ON - 10:08
+  Heat OFF - 10:14, cumulative run time = 6111s
+  Heat ON - 10:31
+  Heat OFF - 10:37, cumulative run time = 6467s
+  Heat ON - 10:52
+  Heat OFF - 10:57, cumulative run time = 6775s
+  Heat ON - 11:16
+  Heat OFF - 11:21, cumulative run time = 7056s
+  Heat ON - 11:41
+  Heat OFF - 11:46, cumulative run time = 7341s
+  Heat ON - 12:13
+  Heat OFF - 12:17, cumulative run time = 7612s
+  Heat ON - 12:45
+  Heat OFF - 12:49, cumulative run time = 7871s
+  Heat ON - 13:14
+  Heat OFF - 13:18, cumulative run time = 8106s
+  Heat ON - 13:37
+  Heat OFF - 13:40, cumulative run time = 8331s
+  Heat ON - 14:05
+  Heat OFF - 14:09, cumulative run time = 8585s
+  Heat ON - 14:55
+  Heat OFF - 14:59, cumulative run time = 8842s
+  Heat ON - 15:37
+  Heat OFF - 15:42, cumulative run time = 9131s
+  Heat ON - 16:19
+  Heat OFF - 16:23, cumulative run time = 9393s
+  Heat ON - 18:09
+  Heat OFF - 18:13, cumulative run time = 9658s
+  Heat ON - 18:46
+  Heat OFF - 18:50, cumulative run time = 9914s
+  Heat ON - 19:18
+  Heat OFF - 19:22, cumulative run time = 10169s
+  Heat ON - 20:01
+  Heat OFF - 20:06, cumulative run time = 10447s
+  Heat ON - 20:33
+  Heat OFF - 20:37, cumulative run time = 10693s
+2-6-2014
+  Heat ON - 07:10
+  Heat OFF - 07:44, cumulative run time = 2005s
+  Heat ON - 09:29
+  Heat OFF - 10:00, cumulative run time = 3877s
+  Heat ON - 10:06
+  Heat OFF - 10:13, cumulative run time = 4250s
+  Heat ON - 10:19
+  Heat OFF - 10:27, cumulative run time = 4686s
+  Heat ON - 10:36
+  Heat OFF - 10:42, cumulative run time = 5068s
+  Heat ON - 10:59
+  Heat OFF - 11:06, cumulative run time = 5457s
+  Heat ON - 11:45
+  Heat OFF - 11:49, cumulative run time = 5710s
+  Heat ON - 12:10
+  Heat OFF - 12:14, cumulative run time = 5980s
+  Heat ON - 12:32
+  Heat OFF - 12:36, cumulative run time = 6231s
+  Heat ON - 12:58
+  Heat OFF - 13:02, cumulative run time = 6496s
+  Heat ON - 13:20
+  Heat OFF - 13:24, cumulative run time = 6747s
+  Heat ON - 13:49
+  Heat OFF - 13:53, cumulative run time = 7028s
+  Heat ON - 14:14
+  Heat OFF - 14:18, cumulative run time = 7272s
+  Heat ON - 14:38
+  Heat OFF - 14:42, cumulative run time = 7509s
+  Heat ON - 15:08
+  Heat OFF - 15:12, cumulative run time = 7795s
+  Heat ON - 15:35
+  Heat OFF - 15:39, cumulative run time = 8075s
+  Heat ON - 16:03
+  Heat OFF - 16:07, cumulative run time = 8344s
+  Heat ON - 16:58
+  Heat OFF - 17:03, cumulative run time = 8630s
+  Heat ON - 17:45
+  Heat OFF - 17:50, cumulative run time = 8898s
+  Heat ON - 18:09
+  Heat OFF - 18:13, cumulative run time = 9134s
+  Heat ON - 18:32
+  Heat OFF - 18:35, cumulative run time = 9360s
+2-7-2014
+  Heat ON - 09:21
+  Heat OFF - 09:54, cumulative run time = 1965s
+  Heat ON - 10:01
+  Heat OFF - 10:08, cumulative run time = 2342s
+  Heat ON - 10:17
+  Heat OFF - 10:22, cumulative run time = 2671s
+  Heat ON - 10:34
+  Heat OFF - 10:39, cumulative run time = 2949s
+  Heat ON - 13:32
+  Heat OFF - 13:39, cumulative run time = 3395s
+  Heat ON - 13:47
+  Heat OFF - 13:53, cumulative run time = 3725s
+  Heat ON - 14:30
+  Heat OFF - 14:34, cumulative run time = 3938s
+  Heat ON - 15:48
+  Heat OFF - 15:52, cumulative run time = 4172s
+  Heat ON - 20:31
+  Heat OFF - 20:35, cumulative run time = 4406s
+2-8-2014
+  Heat ON - 08:08
+  Heat OFF - 08:32, cumulative run time = 1467s
+  Heat ON - 08:40
+  Heat OFF - 08:46, cumulative run time = 1863s
+  Heat ON - 08:57
+  Heat OFF - 09:01, cumulative run time = 2126s
+  Heat ON - 09:20
+  Heat OFF - 09:24, cumulative run time = 2392s
+  Heat ON - 09:56
+  Heat OFF - 10:00, cumulative run time = 2626s
+  Heat ON - 10:48
+  Heat OFF - 10:53, cumulative run time = 2899s
+  Heat ON - 11:30
+  Heat OFF - 11:33, cumulative run time = 3109s
+  Heat ON - 12:14
+  Heat OFF - 12:18, cumulative run time = 3320s
+2-9-2014
+  Heat ON - 12:24
+  Heat OFF - 12:49, cumulative run time = 1509s
+  Heat ON - 12:57
+  Heat OFF - 13:03, cumulative run time = 1920s
+  Heat ON - 13:15
+  Heat OFF - 13:20, cumulative run time = 2178s
+  Heat ON - 13:36
+  Heat OFF - 13:40, cumulative run time = 2408s
+  Heat ON - 14:54
+  Heat OFF - 14:58, cumulative run time = 2647s
+  Heat ON - 20:37
+  Heat OFF - 20:41, cumulative run time = 2916s
+  Heat ON - 21:22
+  Heat OFF - 21:26, cumulative run time = 3145s
+  Heat ON - 22:01
+  Heat OFF - 22:05, cumulative run time = 3394s
+2-10-2014
+  Heat ON - 11:11
+  Heat OFF - 11:56, cumulative run time = 2729s
+  Heat ON - 12:03
+  Heat OFF - 12:12, cumulative run time = 3232s
+  Heat ON - 12:22
+  Heat OFF - 12:29, cumulative run time = 3602s
+  Heat ON - 12:44
+  Heat OFF - 12:48, cumulative run time = 3869s
+  Heat ON - 14:09
+  Heat OFF - 14:13, cumulative run time = 4105s
+  Heat ON - 17:18
+  Heat OFF - 17:22, cumulative run time = 4315s
+2-11-2014
+  Heat ON - 07:56
+  Heat OFF - 08:58, cumulative run time = 3766s
+  Heat ON - 09:04
+  Heat OFF - 09:14, cumulative run time = 4347s
+  Heat ON - 09:22
+  Heat OFF - 09:29, cumulative run time = 4767s
+  Heat ON - 09:38
+  Heat OFF - 09:44, cumulative run time = 5172s
+  Heat ON - 09:56
+  Heat OFF - 10:01, cumulative run time = 5476s
+  Heat ON - 10:15
+  Heat OFF - 10:21, cumulative run time = 5835s
+  Heat ON - 10:37
+  Heat OFF - 10:43, cumulative run time = 6168s
+  Heat ON - 11:03
+  Heat OFF - 11:08, cumulative run time = 6457s
+  Heat ON - 11:42
+  Heat OFF - 11:46, cumulative run time = 6702s
+  Heat ON - 19:33
+  Heat OFF - 19:37, cumulative run time = 6944s
+  Heat ON - 20:30
+  Heat OFF - 20:34, cumulative run time = 7157s
+2-12-2014
+2-13-2014
+  Heat ON - 09:03
+  Heat OFF - 09:27, cumulative run time = 1456s
+  Heat ON - 09:35
+  Heat OFF - 09:42, cumulative run time = 1913s
+  Heat ON - 09:53
+  Heat OFF - 09:57, cumulative run time = 2178s
+  Heat ON - 10:12
+  Heat OFF - 10:17, cumulative run time = 2450s
+  Heat ON - 10:47
+  Heat OFF - 10:50, cumulative run time = 2635s
+  Heat ON - 11:21
+  Heat OFF - 11:24, cumulative run time = 2822s
+2-14-2014
+  Heat ON - 07:50
+  Heat OFF - 08:33, cumulative run time = 2589s
+  Heat ON - 08:39
+  Heat OFF - 08:47, cumulative run time = 3040s
+  Heat ON - 13:57
+  Heat OFF - 14:07, cumulative run time = 3676s
+  Heat ON - 14:15
+  Heat OFF - 14:20, cumulative run time = 3988s
+  Heat ON - 14:32
+  Heat OFF - 14:36, cumulative run time = 4250s
+  Heat ON - 14:49
+  Heat OFF - 14:52, cumulative run time = 4424s
+  Heat ON - 15:10
+  Heat OFF - 15:13, cumulative run time = 4641s
+  Heat ON - 15:34
+  Heat OFF - 15:38, cumulative run time = 4877s
+  Heat ON - 16:13
+  Heat OFF - 16:17, cumulative run time = 5101s
+  Heat ON - 17:03
+  Heat OFF - 17:06, cumulative run time = 5322s
+  Heat ON - 18:48
+  Heat OFF - 18:51, cumulative run time = 5521s
+2-15-2014
+  Heat ON - 07:45
+  Heat OFF - 08:33, cumulative run time = 2867s
+  Heat ON - 08:41
+  Heat OFF - 08:49, cumulative run time = 3344s
+  Heat ON - 09:00
+  Heat OFF - 09:06, cumulative run time = 3716s
+  Heat ON - 09:19
+  Heat OFF - 09:24, cumulative run time = 4009s
+  Heat ON - 09:40
+  Heat OFF - 09:46, cumulative run time = 4323s
+  Heat ON - 10:23
+  Heat OFF - 10:27, cumulative run time = 4575s
+2-16-2014
+  Heat ON - 06:58
+  Heat OFF - 08:16, cumulative run time = 4679s
+  Heat ON - 08:21
+  Heat OFF - 08:32, cumulative run time = 5338s
+  Heat ON - 08:40
+  Heat OFF - 08:49, cumulative run time = 5875s
+  Heat ON - 08:57
+  Heat OFF - 09:05, cumulative run time = 6350s
+  Heat ON - 09:17
+  Heat OFF - 09:24, cumulative run time = 6782s
+  Heat ON - 09:37
+  Heat OFF - 09:42, cumulative run time = 7126s
+  Heat ON - 09:59
+  Heat OFF - 10:04, cumulative run time = 7449s
+  Heat ON - 10:22
+  Heat OFF - 10:26, cumulative run time = 7677s
+2-17-2014
+  Heat ON - 06:55
+  Heat OFF - 07:34, cumulative run time = 2346s
+  Heat ON - 18:08
+  Heat OFF - 18:26, cumulative run time = 3455s
+  Heat ON - 18:34
+  Heat OFF - 18:39, cumulative run time = 3778s
+  Heat ON - 18:50
+  Heat OFF - 18:54, cumulative run time = 4044s
+  Heat ON - 19:10
+  Heat OFF - 19:14, cumulative run time = 4264s
+  Heat ON - 19:46
+  Heat OFF - 19:50, cumulative run time = 4504s
+2-18-2014
+  Heat ON - 19:31
+  Heat OFF - 19:42, cumulative run time = 686s
+  Heat ON - 19:53
+  Heat OFF - 19:59, cumulative run time = 1004s
+  Heat ON - 20:22
+  Heat OFF - 20:27, cumulative run time = 1299s
+  Heat ON - 20:50
+  Heat OFF - 20:55, cumulative run time = 1584s
+2-19-2014
+  Heat ON - 06:52
+  Heat OFF - 07:24, cumulative run time = 1923s
+  Heat ON - 09:46
+  Heat OFF - 10:38, cumulative run time = 5081s
+  Heat ON - 10:45
+  Heat OFF - 10:54, cumulative run time = 5625s
+  Heat ON - 11:02
+  Heat OFF - 11:08, cumulative run time = 6004s
+  Heat ON - 11:21
+  Heat OFF - 11:26, cumulative run time = 6325s
+  Heat ON - 11:43
+  Heat OFF - 11:48, cumulative run time = 6599s
+  Heat ON - 12:08
+  Heat OFF - 12:12, cumulative run time = 6846s
+2-20-2014
+  Heat ON - 10:36
+  Heat OFF - 11:37, cumulative run time = 3635s
+  Heat ON - 11:43
+  Heat OFF - 11:52, cumulative run time = 4141s
+  Heat ON - 12:01
+  Heat OFF - 12:07, cumulative run time = 4497s
+  Heat ON - 12:20
+  Heat OFF - 12:26, cumulative run time = 4807s
+  Heat ON - 12:58
+  Heat OFF - 13:02, cumulative run time = 5031s
+2-21-2014
+  Heat ON - 08:38
+  Heat OFF - 09:33, cumulative run time = 3314s
+  Heat ON - 09:40
+  Heat OFF - 09:48, cumulative run time = 3828s
+  Heat ON - 09:58
+  Heat OFF - 10:04, cumulative run time = 4183s
+  Heat ON - 10:16
+  Heat OFF - 10:21, cumulative run time = 4472s
+  Heat ON - 10:49
+  Heat OFF - 10:53, cumulative run time = 4723s
+2-22-2014
+  Heat ON - 07:24
+  Heat OFF - 08:21, cumulative run time = 3414s
+  Heat ON - 08:28
+  Heat OFF - 08:39, cumulative run time = 4034s
+  Heat ON - 08:47
+  Heat OFF - 08:54, cumulative run time = 4496s
+2-23-2014
+2-24-2014
+2-25-2014
+  Heat ON - 11:11
+  Heat OFF - 11:40, cumulative run time = 1721s
+  Heat ON - 11:45
+  Heat OFF - 11:53, cumulative run time = 2199s
+  Heat ON - 12:00
+  Heat OFF - 12:07, cumulative run time = 2625s
+  Heat ON - 12:15
+  Heat OFF - 12:21, cumulative run time = 2986s
+  Heat ON - 12:31
+  Heat OFF - 12:36, cumulative run time = 3241s
+  Heat ON - 12:47
+  Heat OFF - 12:51, cumulative run time = 3445s
+  Heat ON - 13:07
+  Heat OFF - 13:11, cumulative run time = 3666s
+  Heat ON - 13:30
+  Heat OFF - 13:31, cumulative run time = 3767s
+  Heat ON - 18:52
+  Heat OFF - 18:56, cumulative run time = 3996s
+  Heat ON - 19:34
+  Heat OFF - 19:37, cumulative run time = 4165s
+  Heat ON - 20:13
+  Heat OFF - 20:17, cumulative run time = 4365s
+  Heat ON - 20:41
+  Heat OFF - 20:44, cumulative run time = 4559s
+2-26-2014
+  Heat ON - 09:39
+  Heat OFF - 10:00, cumulative run time = 1263s
+  Heat ON - 10:06
+  Heat OFF - 10:12, cumulative run time = 1596s
+  Heat ON - 10:18
+  Heat OFF - 10:24, cumulative run time = 1931s
+  Heat ON - 10:32
+  Heat OFF - 10:38, cumulative run time = 2268s
+  Heat ON - 10:48
+  Heat OFF - 10:52, cumulative run time = 2527s
+  Heat ON - 11:02
+  Heat OFF - 11:06, cumulative run time = 2773s
+  Heat ON - 11:18
+  Heat OFF - 11:22, cumulative run time = 3003s
+  Heat ON - 11:34
+  Heat OFF - 11:37, cumulative run time = 3221s
+  Heat ON - 11:51
+  Heat OFF - 11:55, cumulative run time = 3430s
+  Heat ON - 12:10
+  Heat OFF - 12:13, cumulative run time = 3615s
+  Heat ON - 12:30
+  Heat OFF - 12:33, cumulative run time = 3799s
+  Heat ON - 12:49
+  Heat OFF - 12:52, cumulative run time = 3980s
+  Heat ON - 13:13
+  Heat OFF - 13:16, cumulative run time = 4150s
+2-27-2014
+  Heat ON - 10:04
+  Heat OFF - 10:24, cumulative run time = 1215s
+  Heat ON - 10:31
+  Heat OFF - 10:40, cumulative run time = 1701s
+  Heat ON - 10:48
+  Heat OFF - 10:55, cumulative run time = 2118s
+  Heat ON - 11:07
+  Heat OFF - 11:13, cumulative run time = 2426s
+  Heat ON - 11:25
+  Heat OFF - 11:29, cumulative run time = 2674s
+  Heat ON - 11:46
+  Heat OFF - 11:50, cumulative run time = 2894s
+  Heat ON - 12:08
+  Heat OFF - 12:11, cumulative run time = 3103s
+  Heat ON - 12:32
+  Heat OFF - 12:36, cumulative run time = 3327s
+  Heat ON - 13:05
+  Heat OFF - 13:09, cumulative run time = 3559s
+  Heat ON - 13:31
+  Heat OFF - 13:34, cumulative run time = 3768s
+  Heat ON - 14:10
+  Heat OFF - 14:14, cumulative run time = 3986s
+  Heat ON - 15:23
+  Heat OFF - 15:26, cumulative run time = 4165s
+  Heat ON - 16:10
+  Heat OFF - 16:13, cumulative run time = 4348s
+  Heat ON - 17:07
+  Heat OFF - 17:11, cumulative run time = 4567s
+  Heat ON - 18:04
+  Heat OFF - 18:07, cumulative run time = 4759s
+  Heat ON - 19:39
+  Heat OFF - 19:43, cumulative run time = 4998s
+  Heat ON - 20:52
+  Heat OFF - 20:57, cumulative run time = 5263s
+2-28-2014
+  Heat ON - 19:14
+  Heat OFF - 19:18, cumulative run time = 239s
+  Heat ON - 19:39
+  Heat OFF - 19:41, cumulative run time = 401s
+3-1-2014
+  Heat ON - 07:04
+  Heat OFF - 07:32, cumulative run time = 1667s
+  Heat ON - 07:37
+  Heat OFF - 07:46, cumulative run time = 2177s
+  Heat ON - 07:52
+  Heat OFF - 07:58, cumulative run time = 2553s
+  Heat ON - 08:06
+  Heat OFF - 08:11, cumulative run time = 2882s
+  Heat ON - 08:19
+  Heat OFF - 08:25, cumulative run time = 3220s
+  Heat ON - 08:34
+  Heat OFF - 08:39, cumulative run time = 3518s
+  Heat ON - 08:49
+  Heat OFF - 08:54, cumulative run time = 3841s
+  Heat ON - 09:06
+  Heat OFF - 09:10, cumulative run time = 4104s
+  Heat ON - 09:24
+  Heat OFF - 09:28, cumulative run time = 4364s
+  Heat ON - 09:43
+  Heat OFF - 09:47, cumulative run time = 4613s
+  Heat ON - 10:03
+  Heat OFF - 10:07, cumulative run time = 4841s
+  Heat ON - 10:23
+  Heat OFF - 10:26, cumulative run time = 5066s
+  Heat ON - 10:44
+  Heat OFF - 10:48, cumulative run time = 5291s
+  Heat ON - 11:05
+  Heat OFF - 11:09, cumulative run time = 5519s
+3-2-2014
+  Heat ON - 11:15
+  Heat OFF - 11:49, cumulative run time = 2025s
+  Heat ON - 11:55
+  Heat OFF - 12:04, cumulative run time = 2537s
+  Heat ON - 12:12
+  Heat OFF - 12:18, cumulative run time = 2883s
+  Heat ON - 12:27
+  Heat OFF - 12:33, cumulative run time = 3192s
+  Heat ON - 12:43
+  Heat OFF - 12:48, cumulative run time = 3466s
+  Heat ON - 13:00
+  Heat OFF - 13:04, cumulative run time = 3712s
+  Heat ON - 13:15
+  Heat OFF - 13:19, cumulative run time = 3945s
+  Heat ON - 13:32
+  Heat OFF - 13:35, cumulative run time = 4151s
+  Heat ON - 13:55
+  Heat OFF - 13:58, cumulative run time = 4303s
+  Heat ON - 14:29
+  Heat OFF - 14:32, cumulative run time = 4472s
+  Heat ON - 14:58
+  Heat OFF - 15:01, cumulative run time = 4639s
+  Heat ON - 15:22
+  Heat OFF - 15:24, cumulative run time = 4786s
+  Heat ON - 19:25
+  Heat OFF - 19:29, cumulative run time = 5028s
+  Heat ON - 19:53
+  Heat OFF - 19:56, cumulative run time = 5206s
+  Heat ON - 20:26
+  Heat OFF - 20:29, cumulative run time = 5392s
+  Heat ON - 20:53
+  Heat OFF - 20:56, cumulative run time = 5578s
+3-3-2014
+  Heat ON - 12:28
+  Heat OFF - 12:44, cumulative run time = 944s
+  Heat ON - 12:49
+  Heat OFF - 12:55, cumulative run time = 1291s
+  Heat ON - 13:03
+  Heat OFF - 13:07, cumulative run time = 1563s
+  Heat ON - 13:16
+  Heat OFF - 13:20, cumulative run time = 1810s
+  Heat ON - 13:31
+  Heat OFF - 13:35, cumulative run time = 2052s
+  Heat ON - 13:47
+  Heat OFF - 13:51, cumulative run time = 2268s
+  Heat ON - 14:05
+  Heat OFF - 14:08, cumulative run time = 2462s
+  Heat ON - 14:23
+  Heat OFF - 14:27, cumulative run time = 2683s
+  Heat ON - 14:53
+  Heat OFF - 14:56, cumulative run time = 2899s
+  Heat ON - 15:25
+  Heat OFF - 15:28, cumulative run time = 3094s
+  Heat ON - 16:21
+  Heat OFF - 16:23, cumulative run time = 3258s
+  Heat ON - 17:00
+  Heat OFF - 17:03, cumulative run time = 3426s
+3-4-2014
+  Heat ON - 11:43
+  Heat OFF - 11:55, cumulative run time = 760s
+  Heat ON - 12:03
+  Heat OFF - 12:08, cumulative run time = 1036s
+  Heat ON - 12:17
+  Heat OFF - 12:21, cumulative run time = 1284s
+  Heat ON - 12:34
+  Heat OFF - 12:38, cumulative run time = 1512s
+  Heat ON - 12:52
+  Heat OFF - 12:55, cumulative run time = 1715s
+  Heat ON - 13:18
+  Heat OFF - 13:21, cumulative run time = 1903s
+  Heat ON - 14:02
+  Heat OFF - 14:05, cumulative run time = 2093s
+3-5-2014
+3-6-2014
+3-7-2014
+3-8-2014
+3-9-2014
+3-10-2014
+  Heat ON - 12:18
+  Heat OFF - 13:10, cumulative run time = 3118s
+3-11-2014
+3-12-2014
+  Heat ON - 10:17
+  Heat OFF - 10:49, cumulative run time = 1877s
+  Heat ON - 10:54
+  Heat OFF - 11:01, cumulative run time = 2316s
+  Heat ON - 11:08
+  Heat OFF - 11:14, cumulative run time = 2649s
+  Heat ON - 11:23
+  Heat OFF - 11:28, cumulative run time = 2957s
+  Heat ON - 11:38
+  Heat OFF - 11:43, cumulative run time = 3238s
+  Heat ON - 11:58
+  Heat OFF - 12:02, cumulative run time = 3486s
+  Heat ON - 12:30
+  Heat OFF - 12:33, cumulative run time = 3692s
+3-13-2014
+3-14-2014
+3-15-2014
+3-16-2014
+3-17-2014
+  Heat ON - 07:28
+  Heat OFF - 07:45, cumulative run time = 979s
+3-18-2014
+3-19-2014
+3-20-2014
+3-21-2014
+3-22-2014
+3-23-2014
+3-24-2014
+  Heat ON - 11:05
+  Heat OFF - 11:19, cumulative run time = 879s
+  Heat ON - 11:26
+  Heat OFF - 11:32, cumulative run time = 1240s
+3-25-2014
+  Heat ON - 10:53
+  Heat OFF - 11:14, cumulative run time = 1284s
+  Heat ON - 11:20
+  Heat OFF - 11:26, cumulative run time = 1627s
+  Heat ON - 11:33
+  Heat OFF - 11:39, cumulative run time = 2001s
+  Heat ON - 11:47
+  Heat OFF - 11:53, cumulative run time = 2311s
+  Heat ON - 12:02
+  Heat OFF - 12:07, cumulative run time = 2575s
+  Heat ON - 12:18
+  Heat OFF - 12:22, cumulative run time = 2821s
+  Heat ON - 12:34
+  Heat OFF - 12:38, cumulative run time = 3060s
+  Heat ON - 12:51
+  Heat OFF - 12:55, cumulative run time = 3269s
+  Heat ON - 13:10
+  Heat OFF - 13:14, cumulative run time = 3490s
+  Heat ON - 13:40
+  Heat OFF - 13:44, cumulative run time = 3723s
+  Heat ON - 14:10
+  Heat OFF - 14:13, cumulative run time = 3934s
+  Heat ON - 14:43
+  Heat OFF - 14:47, cumulative run time = 4153s
+3-26-2014
+  Heat ON - 12:28
+  Heat OFF - 12:48, cumulative run time = 1226s
+  Heat ON - 12:54
+  Heat OFF - 13:01, cumulative run time = 1628s
+  Heat ON - 13:11
+  Heat OFF - 13:17, cumulative run time = 1997s
+  Heat ON - 13:29
+  Heat OFF - 13:33, cumulative run time = 2274s
+  Heat ON - 13:48
+  Heat OFF - 13:53, cumulative run time = 2529s
+  Heat ON - 14:09
+  Heat OFF - 14:13, cumulative run time = 2768s
+  Heat ON - 14:42
+  Heat OFF - 14:46, cumulative run time = 3001s
+  Heat ON - 15:20
+  Heat OFF - 15:24, cumulative run time = 3218s
+3-27-2014
+3-28-2014
+3-29-2014
+  Heat ON - 08:17
+  Heat OFF - 08:59, cumulative run time = 2490s
+  Heat ON - 09:04
+  Heat OFF - 09:14, cumulative run time = 3108s
+  Heat ON - 09:22
+  Heat OFF - 09:30, cumulative run time = 3593s
+  Heat ON - 09:39
+  Heat OFF - 09:46, cumulative run time = 4029s
+  Heat ON - 09:57
+  Heat OFF - 10:03, cumulative run time = 4407s
+  Heat ON - 10:16
+  Heat OFF - 10:21, cumulative run time = 4712s
+  Heat ON - 10:37
+  Heat OFF - 10:38, cumulative run time = 4792s
+3-30-2014
+  Heat ON - 10:24
+  Heat OFF - 10:59, cumulative run time = 2120s
+  Heat ON - 11:05
+  Heat OFF - 11:14, cumulative run time = 2685s
+  Heat ON - 11:22
+  Heat OFF - 11:29, cumulative run time = 3107s
+  Heat ON - 11:38
+  Heat OFF - 11:43, cumulative run time = 3406s
+  Heat ON - 11:52
+  Heat OFF - 11:57, cumulative run time = 3706s
+  Heat ON - 12:08
+  Heat OFF - 12:12, cumulative run time = 3980s
+  Heat ON - 12:24
+  Heat OFF - 12:29, cumulative run time = 4253s
+  Heat ON - 12:41
+  Heat OFF - 12:46, cumulative run time = 4524s
+  Heat ON - 12:59
+  Heat OFF - 13:03, cumulative run time = 4787s
+  Heat ON - 13:18
+  Heat OFF - 13:22, cumulative run time = 5036s
+  Heat ON - 13:37
+  Heat OFF - 13:41, cumulative run time = 5267s
+  Heat ON - 14:13
+  Heat OFF - 14:17, cumulative run time = 5561s
+  Heat ON - 14:37
+  Heat OFF - 14:41, cumulative run time = 5811s
+  Heat ON - 15:03
+  Heat OFF - 15:08, cumulative run time = 6079s
+  Heat ON - 15:45
+  Heat OFF - 15:50, cumulative run time = 6401s
+  Heat ON - 16:25
+  Heat OFF - 16:30, cumulative run time = 6707s
+  Heat ON - 17:02
+  Heat OFF - 17:07, cumulative run time = 6986s
+  Heat ON - 17:22
+  Heat OFF - 17:27, cumulative run time = 7269s
+  Heat ON - 17:56
+  Heat OFF - 18:01, cumulative run time = 7540s
+  Heat ON - 18:18
+  Heat OFF - 18:21, cumulative run time = 7748s
+  Heat ON - 19:13
+  Heat OFF - 19:17, cumulative run time = 8011s
+  Heat ON - 19:35
+  Heat OFF - 19:39, cumulative run time = 8259s
+  Heat ON - 19:56
+  Heat OFF - 20:00, cumulative run time = 8488s
+  Heat ON - 20:21
+  Heat OFF - 20:25, cumulative run time = 8751s
+  Heat ON - 20:40
+  Heat OFF - 20:43, cumulative run time = 8960s
+  Heat ON - 21:07
+  Heat OFF - 21:11, cumulative run time = 9216s
+3-31-2014
+  Heat ON - 12:00
+  Heat OFF - 12:49, cumulative run time = 2933s
+  Heat ON - 12:55
+  Heat OFF - 13:04, cumulative run time = 3491s
+  Heat ON - 13:12
+  Heat OFF - 13:17, cumulative run time = 3831s
+  Heat ON - 15:35
+  Heat OFF - 15:47, cumulative run time = 4573s
+  Heat ON - 15:56
+  Heat OFF - 16:03, cumulative run time = 4994s
+  Heat ON - 16:11
+  Heat OFF - 16:17, cumulative run time = 5335s
+  Heat ON - 16:27
+  Heat OFF - 16:32, cumulative run time = 5618s
+  Heat ON - 16:44
+  Heat OFF - 16:48, cumulative run time = 5905s
+  Heat ON - 17:06
+  Heat OFF - 17:10, cumulative run time = 6177s
+  Heat ON - 17:43
+  Heat OFF - 17:47, cumulative run time = 6420s
+  Heat ON - 18:06
+  Heat OFF - 18:10, cumulative run time = 6637s
+  Heat ON - 18:32
+  Heat OFF - 18:36, cumulative run time = 6872s
+  Heat ON - 18:58
+  Heat OFF - 19:02, cumulative run time = 7149s
+  Heat ON - 19:33
+  Heat OFF - 19:38, cumulative run time = 7431s
+  Heat ON - 20:00
+  Heat OFF - 20:04, cumulative run time = 7707s
+4-1-2014
+  Heat ON - 09:52
+  Heat OFF - 10:49, cumulative run time = 3439s
+  Heat ON - 10:55
+  Heat OFF - 11:04, cumulative run time = 3979s
+  Heat ON - 11:11
+  Heat OFF - 11:17, cumulative run time = 4351s
+  Heat ON - 11:26
+  Heat OFF - 11:31, cumulative run time = 4640s
+  Heat ON - 11:42
+  Heat OFF - 11:47, cumulative run time = 4947s
+  Heat ON - 11:59
+  Heat OFF - 12:03, cumulative run time = 5195s
+  Heat ON - 12:16
+  Heat OFF - 12:20, cumulative run time = 5445s
+  Heat ON - 12:38
+  Heat OFF - 12:42, cumulative run time = 5695s
+  Heat ON - 13:02
+  Heat OFF - 13:06, cumulative run time = 5935s
+  Heat ON - 13:27
+  Heat OFF - 13:31, cumulative run time = 6182s
+  Heat ON - 13:57
+  Heat OFF - 14:01, cumulative run time = 6409s
+  Heat ON - 14:26
+  Heat OFF - 14:29, cumulative run time = 6614s
+4-2-2014
+  Heat ON - 09:48
+  Heat OFF - 10:32, cumulative run time = 2638s
+  Heat ON - 10:38
+  Heat OFF - 10:46, cumulative run time = 3117s
+4-3-2014
+  Heat ON - 11:48
+  Heat OFF - 12:17, cumulative run time = 1739s
+  Heat ON - 12:23
+  Heat OFF - 12:31, cumulative run time = 2236s
+  Heat ON - 12:40
+  Heat OFF - 12:46, cumulative run time = 2612s
+  Heat ON - 12:56
+  Heat OFF - 13:01, cumulative run time = 2928s
+  Heat ON - 13:13
+  Heat OFF - 13:18, cumulative run time = 3231s
+  Heat ON - 13:31
+  Heat OFF - 13:36, cumulative run time = 3507s
+  Heat ON - 13:57
+  Heat OFF - 14:01, cumulative run time = 3735s
+  Heat ON - 14:22
+  Heat OFF - 14:25, cumulative run time = 3934s
+  Heat ON - 15:17
+  Heat OFF - 15:20, cumulative run time = 4141s
+4-4-2014
+4-5-2014
+4-6-2014
+4-7-2014
+4-8-2014
+4-9-2014
+4-10-2014
+4-11-2014
+4-12-2014
+4-13-2014
+4-14-2014
+4-15-2014
+4-16-2014
+4-17-2014
+4-18-2014
+4-19-2014
+4-20-2014
+4-21-2014
+4-22-2014
+4-23-2014
+4-24-2014
+4-25-2014
+  Heat ON - 18:09
+  Heat OFF - 18:19, cumulative run time = 560s
+  Heat ON - 18:28
+  Heat OFF - 18:33, cumulative run time = 869s
+4-26-2014
+4-27-2014
+4-28-2014
+4-29-2014
+4-30-2014
+5-1-2014
+5-2-2014
+5-3-2014
+5-4-2014
+5-5-2014
+5-6-2014
+5-7-2014
+5-8-2014
+5-9-2014
+5-10-2014
+5-11-2014
+5-12-2014
+5-13-2014
+5-14-2014
+5-15-2014
+5-16-2014
+5-17-2014
+5-18-2014
+5-19-2014
+5-20-2014
+5-21-2014
+5-22-2014
+5-23-2014
+5-24-2014
+5-25-2014
+5-26-2014
+5-27-2014
+5-28-2014
+5-29-2014
+5-30-2014
+5-31-2014
+6-1-2014
+6-2-2014
+6-3-2014
+6-4-2014
+6-5-2014
+6-6-2014
+6-7-2014
+6-8-2014
+6-9-2014
+6-10-2014
+6-11-2014
+6-12-2014
+6-13-2014
+6-14-2014
+6-15-2014
+6-16-2014
+6-17-2014
+6-18-2014
+6-19-2014
+6-20-2014
+6-21-2014
+6-22-2014
+6-23-2014
+6-24-2014
+6-25-2014
+6-26-2014
+6-27-2014
+6-28-2014
+6-29-2014
+6-30-2014
+7-1-2014
+7-2-2014
+7-3-2014
+7-4-2014
+7-5-2014
+7-6-2014
+7-7-2014
+7-8-2014
+7-9-2014
+7-10-2014
+7-11-2014
+7-12-2014
+7-13-2014
+7-14-2014
+7-15-2014
+7-16-2014
+7-17-2014
+7-18-2014
+7-19-2014
+7-20-2014
+7-21-2014
+7-22-2014
+7-23-2014
+7-24-2014
+  AC ON - 16:17
+  AC OFF - 20:30, cumulative run time = 0s
+7-25-2014
+7-26-2014
+7-27-2014
+7-28-2014
+7-29-2014
+7-30-2014
+7-31-2014
+  AC ON - 14:36
+  AC OFF - 20:02, cumulative run time = 0s
+8-1-2014
+8-2-2014
+8-3-2014
+8-4-2014
+8-5-2014
+8-6-2014
+8-7-2014
+8-8-2014
+8-9-2014
+8-10-2014
+8-11-2014
+8-12-2014
+8-13-2014
+8-14-2014
+8-15-2014
+8-16-2014
+8-17-2014
+8-18-2014
+8-19-2014
+8-20-2014
+8-21-2014
+8-22-2014
+8-23-2014
+8-24-2014
+8-25-2014
+8-26-2014
+8-27-2014
+8-28-2014
+8-29-2014
+8-30-2014
+8-31-2014
+9-1-2014
+9-2-2014
+9-3-2014
+9-4-2014
+9-5-2014
+9-6-2014
+9-7-2014
+9-8-2014
+9-9-2014
+9-10-2014
+9-11-2014
+9-12-2014
+9-13-2014
+9-14-2014
+9-15-2014
+9-16-2014
+9-17-2014
+9-18-2014
+9-19-2014
+9-20-2014
+9-21-2014
+9-22-2014
+9-23-2014
+9-24-2014
+9-25-2014
+9-26-2014
+9-27-2014
+9-28-2014
+9-29-2014
+9-30-2014
+10-18-2014
+10-19-2014
+10-20-2014
+10-21-2014
+10-22-2014
+10-23-2014
+10-24-2014
+10-25-2014
+10-26-2014
+10-27-2014
+10-28-2014
+10-29-2014
+10-30-2014
+10-31-2014
+11-1-2014
+11-2-2014
+11-3-2014
+11-4-2014
+11-5-2014
+11-6-2014
+11-7-2014
+11-8-2014
+11-9-2014
+11-10-2014
+11-11-2014
+11-12-2014
+  Heat ON - 12:29
+  Heat OFF - 12:51, cumulative run time = 1332s
+  Heat ON - 12:56
+  Heat OFF - 13:04, cumulative run time = 1777s
+  Heat ON - 13:11
+  Heat OFF - 13:16, cumulative run time = 2078s
+  Heat ON - 13:27
+  Heat OFF - 13:33, cumulative run time = 2390s
+  Heat ON - 13:45
+  Heat OFF - 13:50, cumulative run time = 2724s
+  Heat ON - 14:02
+  Heat OFF - 14:03, cumulative run time = 2784s
+11-13-2014
+11-14-2014
+11-15-2014
+  Heat ON - 08:39
+  Heat OFF - 09:18, cumulative run time = 2378s
+  Heat ON - 09:25
+  Heat OFF - 09:33, cumulative run time = 2837s
+  Heat ON - 09:40
+  Heat OFF - 09:47, cumulative run time = 3236s
+  Heat ON - 09:56
+  Heat OFF - 10:02, cumulative run time = 3593s
+  Heat ON - 10:15
+  Heat OFF - 10:21, cumulative run time = 3921s
+  Heat ON - 10:36
+  Heat OFF - 10:41, cumulative run time = 4220s
+  Heat ON - 10:57
+  Heat OFF - 11:01, cumulative run time = 4502s
+  Heat ON - 11:18
+  Heat OFF - 11:22, cumulative run time = 4774s
+  Heat ON - 11:44
+  Heat OFF - 11:48, cumulative run time = 5014s
+  Heat ON - 12:24
+  Heat OFF - 12:29, cumulative run time = 5256s
+  Heat ON - 14:11
+  Heat OFF - 14:15, cumulative run time = 5482s
+  Heat ON - 14:58
+  Heat OFF - 15:02, cumulative run time = 5691s
+  Heat ON - 15:29
+  Heat OFF - 15:32, cumulative run time = 5907s
+  Heat ON - 16:04
+  Heat OFF - 16:08, cumulative run time = 6106s
+  Heat ON - 19:31
+  Heat OFF - 19:36, cumulative run time = 6395s
+  Heat ON - 21:25
+  Heat OFF - 21:29, cumulative run time = 6629s
+11-16-2014
+  Heat ON - 15:01
+  Heat OFF - 15:21, cumulative run time = 1205s
+  Heat ON - 15:27
+  Heat OFF - 15:34, cumulative run time = 1636s
+  Heat ON - 15:40
+  Heat OFF - 15:46, cumulative run time = 1986s
+  Heat ON - 15:53
+  Heat OFF - 15:59, cumulative run time = 2330s
+  Heat ON - 16:09
+  Heat OFF - 16:14, cumulative run time = 2665s
+11-17-2014
+  Heat ON - 13:20
+  Heat OFF - 13:58, cumulative run time = 2285s
+  Heat ON - 14:03
+  Heat OFF - 14:12, cumulative run time = 2798s
+  Heat ON - 14:18
+  Heat OFF - 14:25, cumulative run time = 3216s
+  Heat ON - 14:36
+  Heat OFF - 14:41, cumulative run time = 3532s
+  Heat ON - 14:53
+  Heat OFF - 14:59, cumulative run time = 3852s
+  Heat ON - 15:13
+  Heat OFF - 15:17, cumulative run time = 4120s
+  Heat ON - 15:34
+  Heat OFF - 15:38, cumulative run time = 4381s
+  Heat ON - 15:53
+  Heat OFF - 15:56, cumulative run time = 4616s
+  Heat ON - 16:10
+  Heat OFF - 16:14, cumulative run time = 4841s
+  Heat ON - 16:29
+  Heat OFF - 16:32, cumulative run time = 5031s
+  Heat ON - 17:06
+  Heat OFF - 17:10, cumulative run time = 5280s
+  Heat ON - 17:59
+  Heat OFF - 18:02, cumulative run time = 5459s
+  Heat ON - 18:46
+  Heat OFF - 18:49, cumulative run time = 5678s
+11-18-2014
+  Heat ON - 10:53
+  Heat OFF - 11:25, cumulative run time = 1921s
+  Heat ON - 11:31
+  Heat OFF - 11:39, cumulative run time = 2412s
+  Heat ON - 11:46
+  Heat OFF - 11:52, cumulative run time = 2775s
+  Heat ON - 12:02
+  Heat OFF - 12:07, cumulative run time = 3098s
+  Heat ON - 12:17
+  Heat OFF - 12:22, cumulative run time = 3377s
+  Heat ON - 12:34
+  Heat OFF - 12:38, cumulative run time = 3619s
+  Heat ON - 12:50
+  Heat OFF - 12:54, cumulative run time = 3902s
+  Heat ON - 13:10
+  Heat OFF - 13:13, cumulative run time = 4121s
+  Heat ON - 13:28
+  Heat OFF - 13:32, cumulative run time = 4334s
+  Heat ON - 13:47
+  Heat OFF - 13:50, cumulative run time = 4532s
+  Heat ON - 14:09
+  Heat OFF - 14:12, cumulative run time = 4738s
+  Heat ON - 14:31
+  Heat OFF - 14:35, cumulative run time = 4956s
+11-19-2014
+11-20-2014
+11-21-2014
+11-22-2014
+11-23-2014
+  Heat ON - 09:34
+  Heat OFF - 10:59, cumulative run time = 5124s
+  Heat ON - 11:05
+  Heat OFF - 11:15, cumulative run time = 5773s
+  Heat ON - 11:22
+  Heat OFF - 11:29, cumulative run time = 6183s
+  Heat ON - 11:36
+  Heat OFF - 11:42, cumulative run time = 6549s
+  Heat ON - 11:51
+  Heat OFF - 11:57, cumulative run time = 6867s
+  Heat ON - 12:07
+  Heat OFF - 12:12, cumulative run time = 7171s
+  Heat ON - 12:23
+  Heat OFF - 12:27, cumulative run time = 7439s
+  Heat ON - 12:41
+  Heat OFF - 12:44, cumulative run time = 7662s
+  Heat ON - 12:58
+  Heat OFF - 13:02, cumulative run time = 7907s
+  Heat ON - 13:17
+  Heat OFF - 13:20, cumulative run time = 8135s
+  Heat ON - 13:42
+  Heat OFF - 13:46, cumulative run time = 8378s
+  Heat ON - 14:03
+  Heat OFF - 14:06, cumulative run time = 8591s
+  Heat ON - 14:26
+  Heat OFF - 14:30, cumulative run time = 8795s
+  Heat ON - 14:55
+  Heat OFF - 14:59, cumulative run time = 9000s
+  Heat ON - 15:28
+  Heat OFF - 15:32, cumulative run time = 9194s
+  Heat ON - 16:58
+  Heat OFF - 17:03, cumulative run time = 9448s
+  Heat ON - 21:14
+  Heat OFF - 21:21, cumulative run time = 9861s
+11-24-2014
+  Heat ON - 07:42
+  Heat OFF - 08:48, cumulative run time = 3948s
+  Heat ON - 08:54
+  Heat OFF - 09:03, cumulative run time = 4524s
+  Heat ON - 09:10
+  Heat OFF - 09:18, cumulative run time = 4979s
+  Heat ON - 09:25
+  Heat OFF - 09:31, cumulative run time = 5365s
+  Heat ON - 09:39
+  Heat OFF - 09:45, cumulative run time = 5717s
+  Heat ON - 09:57
+  Heat OFF - 10:04, cumulative run time = 6098s
+  Heat ON - 10:16
+  Heat OFF - 10:21, cumulative run time = 6437s
+  Heat ON - 10:33
+  Heat OFF - 10:38, cumulative run time = 6729s
+  Heat ON - 10:55
+  Heat OFF - 11:00, cumulative run time = 7018s
+  Heat ON - 11:24
+  Heat OFF - 11:28, cumulative run time = 7286s
+  Heat ON - 12:07
+  Heat OFF - 12:12, cumulative run time = 7579s
+  Heat ON - 12:50
+  Heat OFF - 12:54, cumulative run time = 7837s
+  Heat ON - 14:24
+  Heat OFF - 14:28, cumulative run time = 8077s
+  Heat ON - 15:08
+  Heat OFF - 15:12, cumulative run time = 8296s
+  Heat ON - 16:09
+  Heat OFF - 16:13, cumulative run time = 8525s
+11-25-2014
+  Heat ON - 10:28
+  Heat OFF - 11:13, cumulative run time = 2675s
+  Heat ON - 11:18
+  Heat OFF - 11:26, cumulative run time = 3143s
+  Heat ON - 11:31
+  Heat OFF - 11:38, cumulative run time = 3522s
+  Heat ON - 11:45
+  Heat OFF - 11:51, cumulative run time = 3923s
+  Heat ON - 12:01
+  Heat OFF - 12:06, cumulative run time = 4257s
+  Heat ON - 12:18
+  Heat OFF - 12:23, cumulative run time = 4510s
+  Heat ON - 12:36
+  Heat OFF - 12:40, cumulative run time = 4752s
+  Heat ON - 12:55
+  Heat OFF - 12:58, cumulative run time = 4930s
+  Heat ON - 13:20
+  Heat OFF - 13:23, cumulative run time = 5132s
+  Heat ON - 14:30
+  Heat OFF - 14:34, cumulative run time = 5359s
+  Heat ON - 15:01
+  Heat OFF - 15:03, cumulative run time = 5522s
+  Heat ON - 16:05
+  Heat OFF - 16:06, cumulative run time = 5618s
+11-26-2014
+  Heat ON - 00:19
+  Heat OFF - 00:27, cumulative run time = 518s
+  Heat ON - 00:43
+  Heat OFF - 00:51, cumulative run time = 975s
+  Heat ON - 01:46
+  Heat OFF - 01:55, cumulative run time = 1514s
+  Heat ON - 02:34
+  Heat OFF - 02:44, cumulative run time = 2079s
+  Heat ON - 03:17
+  Heat OFF - 03:20, cumulative run time = 2246s
+  Heat ON - 07:03
+  Heat OFF - 07:24, cumulative run time = 3518s
+  Heat ON - 07:30
+  Heat OFF - 07:40, cumulative run time = 4084s
+  Heat ON - 07:46
+  Heat OFF - 07:54, cumulative run time = 4557s
+  Heat ON - 08:01
+  Heat OFF - 08:08, cumulative run time = 4988s
+  Heat ON - 08:16
+  Heat OFF - 08:23, cumulative run time = 5405s
+  Heat ON - 08:32
+  Heat OFF - 08:38, cumulative run time = 5781s
+  Heat ON - 08:49
+  Heat OFF - 08:55, cumulative run time = 6113s
+  Heat ON - 09:06
+  Heat OFF - 09:11, cumulative run time = 6432s
+  Heat ON - 09:24
+  Heat OFF - 09:29, cumulative run time = 6735s
+  Heat ON - 09:52
+  Heat OFF - 09:58, cumulative run time = 7047s
+  Heat ON - 10:15
+  Heat OFF - 10:18, cumulative run time = 7241s
+  Heat ON - 10:33
+  Heat OFF - 10:37, cumulative run time = 7495s
+  Heat ON - 10:54
+  Heat OFF - 10:57, cumulative run time = 7711s
+  Heat ON - 11:25
+  Heat OFF - 11:26, cumulative run time = 7771s
+11-27-2014
+  Heat ON - 07:25
+  Heat OFF - 08:17, cumulative run time = 3083s
+  Heat ON - 08:22
+  Heat OFF - 08:32, cumulative run time = 3708s
+  Heat ON - 08:38
+  Heat OFF - 08:48, cumulative run time = 4269s
+  Heat ON - 08:55
+  Heat OFF - 09:03, cumulative run time = 4743s
+  Heat ON - 09:13
+  Heat OFF - 09:19, cumulative run time = 5090s
+  Heat ON - 09:27
+  Heat OFF - 09:33, cumulative run time = 5454s
+  Heat ON - 09:43
+  Heat OFF - 09:49, cumulative run time = 5803s
+  Heat ON - 10:01
+  Heat OFF - 10:06, cumulative run time = 6102s
+  Heat ON - 10:18
+  Heat OFF - 10:22, cumulative run time = 6376s
+  Heat ON - 10:35
+  Heat OFF - 10:38, cumulative run time = 6600s
+  Heat ON - 10:51
+  Heat OFF - 10:55, cumulative run time = 6835s
+  Heat ON - 11:12
+  Heat OFF - 11:16, cumulative run time = 7076s
+  Heat ON - 11:49
+  Heat OFF - 11:53, cumulative run time = 7318s
+11-28-2014
+  Heat ON - 15:02
+  Heat OFF - 15:08, cumulative run time = 341s
+  Heat ON - 15:27
+  Heat OFF - 15:30, cumulative run time = 557s
+11-29-2014
+  Heat ON - 12:05
+  Heat OFF - 12:15, cumulative run time = 565s
+  Heat ON - 12:24
+  Heat OFF - 12:29, cumulative run time = 854s
+  Heat ON - 12:41
+  Heat OFF - 12:45, cumulative run time = 1095s
+  Heat ON - 12:57
+  Heat OFF - 13:00, cumulative run time = 1301s
+  Heat ON - 13:15
+  Heat OFF - 13:19, cumulative run time = 1511s
+  Heat ON - 13:40
+  Heat OFF - 13:44, cumulative run time = 1732s
+  Heat ON - 14:05
+  Heat OFF - 14:08, cumulative run time = 1940s
+  Heat ON - 14:32
+  Heat OFF - 14:35, cumulative run time = 2164s
+  Heat ON - 15:08
+  Heat OFF - 15:11, cumulative run time = 2360s
+  Heat ON - 17:28
+  Heat OFF - 17:33, cumulative run time = 2655s
+  Heat ON - 18:00
+  Heat OFF - 18:04, cumulative run time = 2918s
+11-30-2014
+  Heat ON - 13:00
+  Heat OFF - 13:09, cumulative run time = 567s
+  Heat ON - 13:19
+  Heat OFF - 13:25, cumulative run time = 926s
+  Heat ON - 13:35
+  Heat OFF - 13:40, cumulative run time = 1191s
+  Heat ON - 13:52
+  Heat OFF - 13:56, cumulative run time = 1443s
+  Heat ON - 14:11
+  Heat OFF - 14:14, cumulative run time = 1653s
+  Heat ON - 14:30
+  Heat OFF - 14:34, cumulative run time = 1856s
+  Heat ON - 14:52
+  Heat OFF - 14:55, cumulative run time = 2031s
+  Heat ON - 15:21
+  Heat OFF - 15:24, cumulative run time = 2206s
+12-1-2014
+  Heat ON - 13:47
+  Heat OFF - 14:01, cumulative run time = 849s
+  Heat ON - 14:09
+  Heat OFF - 14:15, cumulative run time = 1194s
+  Heat ON - 14:25
+  Heat OFF - 14:29, cumulative run time = 1473s
+  Heat ON - 14:41
+  Heat OFF - 14:45, cumulative run time = 1720s
+  Heat ON - 15:17
+  Heat OFF - 15:22, cumulative run time = 2024s
+  Heat ON - 15:38
+  Heat OFF - 15:42, cumulative run time = 2255s
+  Heat ON - 16:00
+  Heat OFF - 16:04, cumulative run time = 2487s
+  Heat ON - 16:36
+  Heat OFF - 16:40, cumulative run time = 2712s
+12-2-2014
+  Heat ON - 11:22
+  Heat OFF - 11:30, cumulative run time = 499s
+  Heat ON - 11:40
+  Heat OFF - 11:45, cumulative run time = 787s
+  Heat ON - 11:57
+  Heat OFF - 12:01, cumulative run time = 1038s
+  Heat ON - 12:15
+  Heat OFF - 12:18, cumulative run time = 1260s
+  Heat ON - 12:59
+  Heat OFF - 13:04, cumulative run time = 1525s
+  Heat ON - 13:19
+  Heat OFF - 13:21, cumulative run time = 1704s
+  Heat ON - 13:40
+  Heat OFF - 13:43, cumulative run time = 1895s
+  Heat ON - 14:16
+  Heat OFF - 14:18, cumulative run time = 2025s
+  Heat ON - 14:43
+  Heat OFF - 14:45, cumulative run time = 2171s
+  Heat ON - 15:48
+  Heat OFF - 15:51, cumulative run time = 2302s
+12-3-2014
+  Heat ON - 12:27
+  Heat OFF - 12:33, cumulative run time = 363s
+  Heat ON - 12:46
+  Heat OFF - 12:50, cumulative run time = 591s
+  Heat ON - 13:07
+  Heat OFF - 13:11, cumulative run time = 798s
+12-4-2014
+  Heat ON - 03:22
+  Heat OFF - 03:23, cumulative run time = 62s
+  Heat ON - 11:39
+  Heat OFF - 11:48, cumulative run time = 565s
+  Heat ON - 11:56
+  Heat OFF - 12:01, cumulative run time = 860s
+  Heat ON - 12:12
+  Heat OFF - 12:15, cumulative run time = 1092s
+  Heat ON - 12:27
+  Heat OFF - 12:31, cumulative run time = 1292s
+  Heat ON - 12:46
+  Heat OFF - 12:49, cumulative run time = 1485s
+  Heat ON - 13:08
+  Heat OFF - 13:11, cumulative run time = 1647s
+  Heat ON - 13:36
+  Heat OFF - 13:39, cumulative run time = 1818s
+12-5-2014
+12-6-2014
+  Heat ON - 11:52
+  Heat OFF - 11:59, cumulative run time = 456s
+  Heat ON - 12:11
+  Heat OFF - 12:15, cumulative run time = 709s
+  Heat ON - 12:33
+  Heat OFF - 12:36, cumulative run time = 916s
+  Heat ON - 12:53
+  Heat OFF - 12:56, cumulative run time = 1100s
+  Heat ON - 13:23
+  Heat OFF - 13:26, cumulative run time = 1290s
+  Heat ON - 14:35
+  Heat OFF - 14:39, cumulative run time = 1482s
+  Heat ON - 15:38
+  Heat OFF - 15:41, cumulative run time = 1687s
+12-7-2014
+  Heat ON - 11:08
+  Heat OFF - 11:21, cumulative run time = 746s
+  Heat ON - 11:28
+  Heat OFF - 11:34, cumulative run time = 1101s
+  Heat ON - 11:44
+  Heat OFF - 11:48, cumulative run time = 1379s
+  Heat ON - 12:00
+  Heat OFF - 12:04, cumulative run time = 1614s
+  Heat ON - 12:16
+  Heat OFF - 12:20, cumulative run time = 1829s
+  Heat ON - 12:36
+  Heat OFF - 12:40, cumulative run time = 2049s
+12-8-2014
+  Heat ON - 16:00
+  Heat OFF - 16:11, cumulative run time = 636s
+  Heat ON - 16:20
+  Heat OFF - 16:25, cumulative run time = 949s
+  Heat ON - 16:36
+  Heat OFF - 16:41, cumulative run time = 1205s
+  Heat ON - 16:54
+  Heat OFF - 16:58, cumulative run time = 1426s
+  Heat ON - 19:00
+  Heat OFF - 19:03, cumulative run time = 1632s
+  Heat ON - 20:51
+  Heat OFF - 20:55, cumulative run time = 1875s
+12-9-2014
+  Heat ON - 12:19
+  Heat OFF - 12:29, cumulative run time = 632s
+  Heat ON - 12:38
+  Heat OFF - 12:43, cumulative run time = 922s
+  Heat ON - 12:53
+  Heat OFF - 12:57, cumulative run time = 1190s
+  Heat ON - 13:15
+  Heat OFF - 13:20, cumulative run time = 1503s
+  Heat ON - 13:35
+  Heat OFF - 13:39, cumulative run time = 1735s
+  Heat ON - 13:53
+  Heat OFF - 13:56, cumulative run time = 1949s
+  Heat ON - 14:12
+  Heat OFF - 14:16, cumulative run time = 2149s
+  Heat ON - 14:39
+  Heat OFF - 14:42, cumulative run time = 2336s
+  Heat ON - 15:12
+  Heat OFF - 15:14, cumulative run time = 2472s
+  Heat ON - 15:36
+  Heat OFF - 15:38, cumulative run time = 2605s
+  Heat ON - 16:01
+  Heat OFF - 16:05, cumulative run time = 2798s
+  Heat ON - 16:49
+  Heat OFF - 16:52, cumulative run time = 2951s
+12-10-2014
+  Heat ON - 14:37
+  Heat OFF - 14:43, cumulative run time = 351s
+  Heat ON - 15:01
+  Heat OFF - 15:05, cumulative run time = 593s
+  Heat ON - 15:40
+  Heat OFF - 15:44, cumulative run time = 834s
+12-11-2014
+  Heat ON - 11:32
+  Heat OFF - 12:03, cumulative run time = 1864s
+  Heat ON - 12:10
+  Heat OFF - 12:18, cumulative run time = 2372s
+  Heat ON - 12:27
+  Heat OFF - 12:33, cumulative run time = 2745s
+  Heat ON - 12:43
+  Heat OFF - 12:47, cumulative run time = 3005s
+  Heat ON - 12:57
+  Heat OFF - 13:01, cumulative run time = 3248s
+  Heat ON - 13:11
+  Heat OFF - 13:15, cumulative run time = 3448s
+  Heat ON - 13:28
+  Heat OFF - 13:31, cumulative run time = 3651s
+  Heat ON - 13:47
+  Heat OFF - 13:50, cumulative run time = 3831s
+  Heat ON - 14:03
+  Heat OFF - 14:06, cumulative run time = 3990s
+  Heat ON - 14:20
+  Heat OFF - 14:24, cumulative run time = 4183s
+  Heat ON - 14:48
+  Heat OFF - 14:52, cumulative run time = 4439s
+  Heat ON - 15:11
+  Heat OFF - 15:15, cumulative run time = 4648s
+  Heat ON - 15:34
+  Heat OFF - 15:37, cumulative run time = 4859s
+  Heat ON - 16:15
+  Heat OFF - 16:19, cumulative run time = 5074s
+  Heat ON - 16:41
+  Heat OFF - 16:44, cumulative run time = 5233s
+12-12-2014
+  Heat ON - 07:24
+  Heat OFF - 08:05, cumulative run time = 2473s
+  Heat ON - 08:11
+  Heat OFF - 08:21, cumulative run time = 3051s
+  Heat ON - 08:32
+  Heat OFF - 08:42, cumulative run time = 3594s
+  Heat ON - 08:55
+  Heat OFF - 09:02, cumulative run time = 4042s
+  Heat ON - 09:19
+  Heat OFF - 09:25, cumulative run time = 4398s
+  Heat ON - 09:38
+  Heat OFF - 09:43, cumulative run time = 4696s
+  Heat ON - 09:57
+  Heat OFF - 10:01, cumulative run time = 4939s
+  Heat ON - 10:15
+  Heat OFF - 10:19, cumulative run time = 5195s
+  Heat ON - 10:32
+  Heat OFF - 10:36, cumulative run time = 5419s
+  Heat ON - 10:49
+  Heat OFF - 10:53, cumulative run time = 5627s
+  Heat ON - 11:11
+  Heat OFF - 11:14, cumulative run time = 5854s
+  Heat ON - 11:32
+  Heat OFF - 11:36, cumulative run time = 6078s
+  Heat ON - 11:51
+  Heat OFF - 11:55, cumulative run time = 6308s
+  Heat ON - 12:26
+  Heat OFF - 12:27, cumulative run time = 6389s
+  Heat ON - 17:01
+  Heat OFF - 17:10, cumulative run time = 6950s
+  Heat ON - 17:20
+  Heat OFF - 17:25, cumulative run time = 7300s
+  Heat ON - 17:37
+  Heat OFF - 17:41, cumulative run time = 7558s
+  Heat ON - 18:06
+  Heat OFF - 18:09, cumulative run time = 7735s
+  Heat ON - 18:37
+  Heat OFF - 18:41, cumulative run time = 7958s
+  Heat ON - 19:20
+  Heat OFF - 19:23, cumulative run time = 8114s
+  Heat ON - 19:45
+  Heat OFF - 19:47, cumulative run time = 8268s
+  Heat ON - 20:28
+  Heat OFF - 20:33, cumulative run time = 8545s
+  Heat ON - 21:41
+  Heat OFF - 21:45, cumulative run time = 8784s
+12-13-2014
+  Heat ON - 06:50
+  Heat OFF - 07:42, cumulative run time = 3112s
+  Heat ON - 07:49
+  Heat OFF - 07:57, cumulative run time = 3628s
+  Heat ON - 08:08
+  Heat OFF - 08:17, cumulative run time = 4160s
+  Heat ON - 08:27
+  Heat OFF - 08:34, cumulative run time = 4573s
+  Heat ON - 08:45
+  Heat OFF - 08:51, cumulative run time = 4964s
+  Heat ON - 09:05
+  Heat OFF - 09:11, cumulative run time = 5300s
+  Heat ON - 09:24
+  Heat OFF - 09:29, cumulative run time = 5615s
+  Heat ON - 09:46
+  Heat OFF - 09:52, cumulative run time = 5938s
+12-14-2014
+  Heat ON - 11:43
+  Heat OFF - 12:18, cumulative run time = 2106s
+  Heat ON - 12:25
+  Heat OFF - 12:33, cumulative run time = 2599s
+  Heat ON - 12:41
+  Heat OFF - 12:48, cumulative run time = 3045s
+  Heat ON - 12:58
+  Heat OFF - 13:04, cumulative run time = 3434s
+  Heat ON - 13:15
+  Heat OFF - 13:21, cumulative run time = 3783s
+  Heat ON - 13:32
+  Heat OFF - 13:37, cumulative run time = 4100s
+  Heat ON - 13:48
+  Heat OFF - 13:52, cumulative run time = 4376s
+  Heat ON - 14:04
+  Heat OFF - 14:08, cumulative run time = 4598s
+  Heat ON - 14:21
+  Heat OFF - 14:25, cumulative run time = 4841s
+  Heat ON - 14:46
+  Heat OFF - 14:50, cumulative run time = 5075s
+  Heat ON - 15:13
+  Heat OFF - 15:18, cumulative run time = 5356s
+  Heat ON - 15:33
+  Heat OFF - 15:36, cumulative run time = 5533s
+  Heat ON - 15:51
+  Heat OFF - 15:54, cumulative run time = 5712s
+  Heat ON - 16:13
+  Heat OFF - 16:16, cumulative run time = 5912s
+  Heat ON - 16:47
+  Heat OFF - 16:51, cumulative run time = 6117s
+  Heat ON - 17:24
+  Heat OFF - 17:28, cumulative run time = 6351s
+  Heat ON - 18:05
+  Heat OFF - 18:07, cumulative run time = 6483s
+12-15-2014
+  Heat ON - 13:43
+  Heat OFF - 14:05, cumulative run time = 1356s
+  Heat ON - 14:13
+  Heat OFF - 14:20, cumulative run time = 1813s
+  Heat ON - 14:29
+  Heat OFF - 14:35, cumulative run time = 2171s
+  Heat ON - 14:45
+  Heat OFF - 14:50, cumulative run time = 2520s
+  Heat ON - 15:04
+  Heat OFF - 15:09, cumulative run time = 2820s
+  Heat ON - 15:30
+  Heat OFF - 15:34, cumulative run time = 3083s
+  Heat ON - 15:53
+  Heat OFF - 15:57, cumulative run time = 3319s
+  Heat ON - 18:12
+  Heat OFF - 18:16, cumulative run time = 3537s
+12-16-2014
+  Heat ON - 11:53
+  Heat OFF - 12:23, cumulative run time = 1779s
+  Heat ON - 12:29
+  Heat OFF - 12:38, cumulative run time = 2299s
+  Heat ON - 12:47
+  Heat OFF - 12:54, cumulative run time = 2695s
+  Heat ON - 13:03
+  Heat OFF - 13:08, cumulative run time = 3013s
+  Heat ON - 13:18
+  Heat OFF - 13:22, cumulative run time = 3302s
+  Heat ON - 13:34
+  Heat OFF - 13:38, cumulative run time = 3548s
+  Heat ON - 13:52
+  Heat OFF - 13:56, cumulative run time = 3797s
+  Heat ON - 14:12
+  Heat OFF - 14:16, cumulative run time = 4017s
+  Heat ON - 14:35
+  Heat OFF - 14:38, cumulative run time = 4189s
+  Heat ON - 16:00
+  Heat OFF - 16:04, cumulative run time = 4401s
+  Heat ON - 17:00
+  Heat OFF - 17:04, cumulative run time = 4632s
+  Heat ON - 18:26
+  Heat OFF - 18:31, cumulative run time = 4884s
+  Heat ON - 19:34
+  Heat OFF - 19:39, cumulative run time = 5137s
+  Heat ON - 21:21
+  Heat OFF - 21:23, cumulative run time = 5231s
+12-17-2014
+  Heat ON - 07:56
+  Heat OFF - 08:19, cumulative run time = 1355s
+  Heat ON - 08:26
+  Heat OFF - 08:34, cumulative run time = 1853s
+  Heat ON - 08:43
+  Heat OFF - 08:50, cumulative run time = 2293s
+  Heat ON - 09:01
+  Heat OFF - 09:07, cumulative run time = 2657s
+  Heat ON - 09:19
+  Heat OFF - 09:24, cumulative run time = 2964s
+  Heat ON - 09:37
+  Heat OFF - 09:42, cumulative run time = 3284s
+  Heat ON - 09:57
+  Heat OFF - 10:02, cumulative run time = 3573s
+  Heat ON - 10:19
+  Heat OFF - 10:23, cumulative run time = 3833s
+  Heat ON - 10:40
+  Heat OFF - 10:44, cumulative run time = 4068s
+  Heat ON - 11:03
+  Heat OFF - 11:07, cumulative run time = 4305s
+  Heat ON - 11:24
+  Heat OFF - 11:28, cumulative run time = 4518s
+  Heat ON - 11:47
+  Heat OFF - 11:52, cumulative run time = 4762s
+  Heat ON - 12:16
+  Heat OFF - 12:20, cumulative run time = 4993s
+  Heat ON - 12:51
+  Heat OFF - 12:55, cumulative run time = 5227s
+  Heat ON - 15:41
+  Heat OFF - 15:45, cumulative run time = 5472s
+  Heat ON - 16:30
+  Heat OFF - 16:33, cumulative run time = 5670s
+12-18-2014
+  Heat ON - 06:59
+  Heat OFF - 07:13, cumulative run time = 847s
+  Heat ON - 07:20
+  Heat OFF - 07:26, cumulative run time = 1238s
+  Heat ON - 07:34
+  Heat OFF - 07:39, cumulative run time = 1538s
+  Heat ON - 07:47
+  Heat OFF - 07:53, cumulative run time = 1887s
+  Heat ON - 08:03
+  Heat OFF - 08:08, cumulative run time = 2172s
+  Heat ON - 08:19
+  Heat OFF - 08:23, cumulative run time = 2428s
+  Heat ON - 08:33
+  Heat OFF - 08:38, cumulative run time = 2731s
+  Heat ON - 09:05
+  Heat OFF - 09:10, cumulative run time = 3047s
+  Heat ON - 09:23
+  Heat OFF - 09:27, cumulative run time = 3300s
+  Heat ON - 09:58
+  Heat OFF - 10:03, cumulative run time = 3592s
+  Heat ON - 10:34
+  Heat OFF - 10:38, cumulative run time = 3846s
+  Heat ON - 11:17
+  Heat OFF - 11:21, cumulative run time = 4090s
+  Heat ON - 11:52
+  Heat OFF - 11:56, cumulative run time = 4324s
+  Heat ON - 12:34
+  Heat OFF - 12:37, cumulative run time = 4528s
+12-19-2014
+  Heat ON - 08:01
+  Heat OFF - 08:16, cumulative run time = 861s
+  Heat ON - 08:24
+  Heat OFF - 08:30, cumulative run time = 1247s
+  Heat ON - 08:39
+  Heat OFF - 08:44, cumulative run time = 1587s
+  Heat ON - 08:54
+  Heat OFF - 09:00, cumulative run time = 1926s
+  Heat ON - 09:11
+  Heat OFF - 09:15, cumulative run time = 2158s
+  Heat ON - 09:28
+  Heat OFF - 09:32, cumulative run time = 2414s
+  Heat ON - 09:47
+  Heat OFF - 09:51, cumulative run time = 2647s
+  Heat ON - 10:11
+  Heat OFF - 10:14, cumulative run time = 2850s
+  Heat ON - 10:30
+  Heat OFF - 10:34, cumulative run time = 3047s
+  Heat ON - 11:19
+  Heat OFF - 11:23, cumulative run time = 3273s
+  Heat ON - 12:01
+  Heat OFF - 12:05, cumulative run time = 3496s
+  Heat ON - 12:33
+  Heat OFF - 12:36, cumulative run time = 3665s
+12-20-2014
+12-21-2014
+12-22-2014
+  Heat ON - 07:33
+  Heat OFF - 07:57, cumulative run time = 1475s
+  Heat ON - 08:03
+  Heat OFF - 08:12, cumulative run time = 2044s
+  Heat ON - 08:18
+  Heat OFF - 08:25, cumulative run time = 2489s
+  Heat ON - 08:39
+  Heat OFF - 08:46, cumulative run time = 2958s
+  Heat ON - 09:00
+  Heat OFF - 09:06, cumulative run time = 3310s
+  Heat ON - 09:17
+  Heat OFF - 09:22, cumulative run time = 3584s
+  Heat ON - 09:50
+  Heat OFF - 09:55, cumulative run time = 3870s
+  Heat ON - 10:11
+  Heat OFF - 10:15, cumulative run time = 4101s
+  Heat ON - 10:38
+  Heat OFF - 10:42, cumulative run time = 4314s
+12-23-2014
+  Heat ON - 08:34
+  Heat OFF - 09:05, cumulative run time = 1856s
+  Heat ON - 09:11
+  Heat OFF - 09:21, cumulative run time = 2440s
+  Heat ON - 09:29
+  Heat OFF - 09:37, cumulative run time = 2906s
+  Heat ON - 09:45
+  Heat OFF - 09:52, cumulative run time = 3316s
+  Heat ON - 10:01
+  Heat OFF - 10:06, cumulative run time = 3637s
+  Heat ON - 10:19
+  Heat OFF - 10:24, cumulative run time = 3937s
+  Heat ON - 10:52
+  Heat OFF - 10:58, cumulative run time = 4280s
+  Heat ON - 11:11
+  Heat OFF - 11:15, cumulative run time = 4546s
+  Heat ON - 11:52
+  Heat OFF - 11:57, cumulative run time = 4876s
+  Heat ON - 12:14
+  Heat OFF - 12:17, cumulative run time = 5085s
+  Heat ON - 12:40
+  Heat OFF - 12:44, cumulative run time = 5308s
+  Heat ON - 13:09
+  Heat OFF - 13:12, cumulative run time = 5496s
+  Heat ON - 13:40
+  Heat OFF - 13:44, cumulative run time = 5713s
+  Heat ON - 15:17
+  Heat OFF - 15:22, cumulative run time = 5984s
+  Heat ON - 15:54
+  Heat OFF - 15:58, cumulative run time = 6232s
+12-24-2014
+  Heat ON - 07:18
+  Heat OFF - 08:38, cumulative run time = 4783s
+  Heat ON - 08:44
+  Heat OFF - 08:55, cumulative run time = 5447s
+  Heat ON - 09:04
+  Heat OFF - 09:13, cumulative run time = 5971s
+  Heat ON - 09:24
+  Heat OFF - 09:30, cumulative run time = 6350s
+  Heat ON - 09:49
+  Heat OFF - 09:54, cumulative run time = 6646s
+  Heat ON - 10:10
+  Heat OFF - 10:15, cumulative run time = 6911s
+  Heat ON - 10:42
+  Heat OFF - 10:46, cumulative run time = 7133s
+  Heat ON - 11:09
+  Heat OFF - 11:13, cumulative run time = 7384s
+  Heat ON - 11:36
+  Heat OFF - 11:40, cumulative run time = 7604s
+  Heat ON - 14:29
+  Heat OFF - 14:33, cumulative run time = 7871s
+  Heat ON - 14:52
+  Heat OFF - 14:57, cumulative run time = 8142s
+  Heat ON - 15:56
+  Heat OFF - 16:00, cumulative run time = 8389s
+  Heat ON - 16:32
+  Heat OFF - 16:37, cumulative run time = 8675s
+  Heat ON - 17:51
+  Heat OFF - 17:56, cumulative run time = 8964s
+  Heat ON - 18:15
+  Heat OFF - 18:19, cumulative run time = 9211s
+  Heat ON - 19:05
+  Heat OFF - 19:09, cumulative run time = 9425s
+  Heat ON - 19:35
+  Heat OFF - 19:39, cumulative run time = 9665s
+  Heat ON - 20:06
+  Heat OFF - 20:10, cumulative run time = 9911s
+  Heat ON - 20:47
+  Heat OFF - 20:52, cumulative run time = 10237s
+  Heat ON - 21:18
+  Heat OFF - 21:20, cumulative run time = 10350s
+12-25-2014
+  Heat ON - 07:40
+  Heat OFF - 09:29, cumulative run time = 6557s
+  Heat ON - 09:35
+  Heat OFF - 09:44, cumulative run time = 7083s
+  Heat ON - 09:50
+  Heat OFF - 09:58, cumulative run time = 7571s
+  Heat ON - 10:05
+  Heat OFF - 10:13, cumulative run time = 8047s
+  Heat ON - 10:21
+  Heat OFF - 10:27, cumulative run time = 8410s
+  Heat ON - 10:39
+  Heat OFF - 10:44, cumulative run time = 8725s
+  Heat ON - 10:56
+  Heat OFF - 11:02, cumulative run time = 9104s
+  Heat ON - 11:16
+  Heat OFF - 11:22, cumulative run time = 9462s
+  Heat ON - 11:36
+  Heat OFF - 11:41, cumulative run time = 9773s
+  Heat ON - 12:00
+  Heat OFF - 12:04, cumulative run time = 10030s
+  Heat ON - 12:44
+  Heat OFF - 12:48, cumulative run time = 10264s
+  Heat ON - 13:20
+  Heat OFF - 13:25, cumulative run time = 10565s
+  Heat ON - 14:12
+  Heat OFF - 14:17, cumulative run time = 10874s
+  Heat ON - 14:33
+  Heat OFF - 14:37, cumulative run time = 11113s
+  Heat ON - 15:29
+  Heat OFF - 15:34, cumulative run time = 11422s
+  Heat ON - 15:52
+  Heat OFF - 15:56, cumulative run time = 11705s
+  Heat ON - 16:18
+  Heat OFF - 16:25, cumulative run time = 12140s
+  Heat ON - 17:10
+  Heat OFF - 17:15, cumulative run time = 12448s
+  Heat ON - 17:38
+  Heat OFF - 17:42, cumulative run time = 12684s
+  Heat ON - 18:08
+  Heat OFF - 18:11, cumulative run time = 12897s
+  Heat ON - 18:30
+  Heat OFF - 18:33, cumulative run time = 13091s
+  Heat ON - 18:56
+  Heat OFF - 19:00, cumulative run time = 13353s
+  Heat ON - 20:16
+  Heat OFF - 20:22, cumulative run time = 13672s
+  Heat ON - 20:47
+  Heat OFF - 20:52, cumulative run time = 14007s
+  Heat ON - 21:11
+  Heat OFF - 21:16, cumulative run time = 14307s
+  Heat ON - 21:49
+  Heat OFF - 21:55, cumulative run time = 14659s
+12-26-2014
+  Heat ON - 07:46
+  Heat OFF - 09:39, cumulative run time = 6740s
+  Heat ON - 09:44
+  Heat OFF - 09:54, cumulative run time = 7299s
+  Heat ON - 10:02
+  Heat OFF - 10:10, cumulative run time = 7812s
+  Heat ON - 10:20
+  Heat OFF - 10:27, cumulative run time = 8258s
+  Heat ON - 10:39
+  Heat OFF - 10:47, cumulative run time = 8680s
+  Heat ON - 10:58
+  Heat OFF - 11:04, cumulative run time = 9054s
+  Heat ON - 11:18
+  Heat OFF - 11:24, cumulative run time = 9403s
+  Heat ON - 11:35
+  Heat OFF - 11:40, cumulative run time = 9705s
+  Heat ON - 12:00
+  Heat OFF - 12:05, cumulative run time = 10055s
+  Heat ON - 12:30
+  Heat OFF - 12:35, cumulative run time = 10405s
+  Heat ON - 12:54
+  Heat OFF - 13:00, cumulative run time = 10729s
+  Heat ON - 13:19
+  Heat OFF - 13:24, cumulative run time = 11037s
+  Heat ON - 13:44
+  Heat OFF - 13:48, cumulative run time = 11301s
+  Heat ON - 14:19
+  Heat OFF - 14:24, cumulative run time = 11640s
+  Heat ON - 15:18
+  Heat OFF - 15:23, cumulative run time = 11937s
+  Heat ON - 15:47
+  Heat OFF - 15:52, cumulative run time = 12231s
+  Heat ON - 16:09
+  Heat OFF - 16:14, cumulative run time = 12501s
+  Heat ON - 17:55
+  Heat OFF - 18:00, cumulative run time = 12809s
+  Heat ON - 18:16
+  Heat OFF - 18:20, cumulative run time = 13077s
+  Heat ON - 18:36
+  Heat OFF - 18:41, cumulative run time = 13332s
+  Heat ON - 19:36
+  Heat OFF - 19:42, cumulative run time = 13669s
+  Heat ON - 20:09
+  Heat OFF - 20:14, cumulative run time = 14002s
+  Heat ON - 20:36
+  Heat OFF - 20:41, cumulative run time = 14312s
+12-27-2014
+  Heat ON - 07:45
+  Heat OFF - 09:27, cumulative run time = 6129s
+  Heat ON - 09:34
+  Heat OFF - 09:42, cumulative run time = 6652s
+  Heat ON - 12:34
+  Heat OFF - 12:47, cumulative run time = 7427s
+  Heat ON - 12:53
+  Heat OFF - 13:00, cumulative run time = 7856s
+  Heat ON - 13:10
+  Heat OFF - 13:16, cumulative run time = 8200s
+  Heat ON - 13:29
+  Heat OFF - 13:34, cumulative run time = 8502s
+  Heat ON - 13:51
+  Heat OFF - 13:55, cumulative run time = 8774s
+  Heat ON - 14:12
+  Heat OFF - 14:16, cumulative run time = 9062s
+  Heat ON - 14:54
+  Heat OFF - 14:58, cumulative run time = 9329s
+  Heat ON - 15:28
+  Heat OFF - 15:32, cumulative run time = 9574s
+  Heat ON - 16:11
+  Heat OFF - 16:16, cumulative run time = 9827s
+  Heat ON - 17:23
+  Heat OFF - 17:28, cumulative run time = 10140s
+  Heat ON - 19:27
+  Heat OFF - 19:34, cumulative run time = 10504s
+  Heat ON - 19:53
+  Heat OFF - 19:58, cumulative run time = 10814s
+  Heat ON - 20:13
+  Heat OFF - 20:18, cumulative run time = 11122s
+  Heat ON - 20:35
+  Heat OFF - 20:40, cumulative run time = 11395s
+  Heat ON - 20:56
+  Heat OFF - 21:01, cumulative run time = 11677s
+  Heat ON - 21:19
+  Heat OFF - 21:24, cumulative run time = 11969s
+  Heat ON - 21:41
+  Heat OFF - 21:43, cumulative run time = 12089s
+12-28-2014
+  Heat ON - 07:05
+  Heat OFF - 08:05, cumulative run time = 3640s
+  Heat ON - 08:11
+  Heat OFF - 08:23, cumulative run time = 4349s
+  Heat ON - 08:29
+  Heat OFF - 08:36, cumulative run time = 4760s
+  Heat ON - 08:44
+  Heat OFF - 08:52, cumulative run time = 5234s
+  Heat ON - 09:02
+  Heat OFF - 09:10, cumulative run time = 5693s
+  Heat ON - 09:20
+  Heat OFF - 09:27, cumulative run time = 6116s
+  Heat ON - 09:41
+  Heat OFF - 09:47, cumulative run time = 6448s
+  Heat ON - 10:20
+  Heat OFF - 10:28, cumulative run time = 6899s
+  Heat ON - 10:47
+  Heat OFF - 10:53, cumulative run time = 7272s
+  Heat ON - 11:21
+  Heat OFF - 11:29, cumulative run time = 7731s
+  Heat ON - 11:45
+  Heat OFF - 11:50, cumulative run time = 8066s
+  Heat ON - 12:04
+  Heat OFF - 12:09, cumulative run time = 8364s
+  Heat ON - 12:32
+  Heat OFF - 12:37, cumulative run time = 8660s
+  Heat ON - 13:30
+  Heat OFF - 13:35, cumulative run time = 8988s
+  Heat ON - 14:08
+  Heat OFF - 14:13, cumulative run time = 9299s
+  Heat ON - 14:44
+  Heat OFF - 14:49, cumulative run time = 9630s
+  Heat ON - 15:24
+  Heat OFF - 15:30, cumulative run time = 9946s
+  Heat ON - 16:02
+  Heat OFF - 16:07, cumulative run time = 10248s
+  Heat ON - 16:54
+  Heat OFF - 16:58, cumulative run time = 10502s
+  Heat ON - 17:21
+  Heat OFF - 17:25, cumulative run time = 10765s
+  Heat ON - 19:17
+  Heat OFF - 19:23, cumulative run time = 11117s
+  Heat ON - 20:03
+  Heat OFF - 20:09, cumulative run time = 11485s
+  Heat ON - 20:47
+  Heat OFF - 20:53, cumulative run time = 11811s
+12-29-2014
+  Heat ON - 08:28
+  Heat OFF - 10:15, cumulative run time = 6407s
+  Heat ON - 10:21
+  Heat OFF - 10:33, cumulative run time = 7152s
+  Heat ON - 10:40
+  Heat OFF - 10:48, cumulative run time = 7591s
+  Heat ON - 10:54
+  Heat OFF - 11:02, cumulative run time = 8075s
+  Heat ON - 11:10
+  Heat OFF - 11:18, cumulative run time = 8548s
+  Heat ON - 11:28
+  Heat OFF - 11:35, cumulative run time = 8989s
+  Heat ON - 11:44
+  Heat OFF - 11:50, cumulative run time = 9342s
+  Heat ON - 11:58
+  Heat OFF - 12:05, cumulative run time = 9720s
+  Heat ON - 12:16
+  Heat OFF - 12:21, cumulative run time = 10060s
+  Heat ON - 12:33
+  Heat OFF - 12:39, cumulative run time = 10414s
+  Heat ON - 12:52
+  Heat OFF - 12:58, cumulative run time = 10748s
+  Heat ON - 13:13
+  Heat OFF - 13:19, cumulative run time = 11091s
+  Heat ON - 13:33
+  Heat OFF - 13:38, cumulative run time = 11430s
+  Heat ON - 13:53
+  Heat OFF - 13:59, cumulative run time = 11754s
+  Heat ON - 14:13
+  Heat OFF - 14:18, cumulative run time = 12052s
+  Heat ON - 14:38
+  Heat OFF - 14:43, cumulative run time = 12370s
+  Heat ON - 14:57
+  Heat OFF - 15:02, cumulative run time = 12660s
+  Heat ON - 15:14
+  Heat OFF - 15:19, cumulative run time = 12934s
+  Heat ON - 15:37
+  Heat OFF - 15:42, cumulative run time = 13228s
+  Heat ON - 15:58
+  Heat OFF - 16:03, cumulative run time = 13519s
+  Heat ON - 16:18
+  Heat OFF - 16:23, cumulative run time = 13806s
+  Heat ON - 16:38
+  Heat OFF - 16:43, cumulative run time = 14080s
+  Heat ON - 17:05
+  Heat OFF - 17:10, cumulative run time = 14365s
+  Heat ON - 17:38
+  Heat OFF - 17:43, cumulative run time = 14622s
+  Heat ON - 18:20
+  Heat OFF - 18:24, cumulative run time = 14832s
+  Heat ON - 18:54
+  Heat OFF - 18:57, cumulative run time = 15052s
+  Heat ON - 19:18
+  Heat OFF - 19:22, cumulative run time = 15310s
+  Heat ON - 19:41
+  Heat OFF - 19:45, cumulative run time = 15576s
+  Heat ON - 20:02
+  Heat OFF - 20:06, cumulative run time = 15845s
+  Heat ON - 20:22
+  Heat OFF - 20:27, cumulative run time = 16128s
+  Heat ON - 20:39
+  Heat OFF - 20:43, cumulative run time = 16408s
+12-30-2014
+  Heat ON - 07:43
+  Heat OFF - 09:59, cumulative run time = 8170s
+  Heat ON - 10:05
+  Heat OFF - 10:16, cumulative run time = 8853s
+  Heat ON - 10:23
+  Heat OFF - 10:32, cumulative run time = 9398s
+  Heat ON - 10:40
+  Heat OFF - 10:49, cumulative run time = 9907s
+  Heat ON - 10:57
+  Heat OFF - 11:05, cumulative run time = 10365s
+  Heat ON - 11:14
+  Heat OFF - 11:20, cumulative run time = 10739s
+  Heat ON - 11:33
+  Heat OFF - 11:38, cumulative run time = 11028s
+  Heat ON - 11:52
+  Heat OFF - 11:57, cumulative run time = 11351s
+  Heat ON - 12:12
+  Heat OFF - 12:17, cumulative run time = 278s
