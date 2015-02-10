@@ -11,6 +11,7 @@
 #include "ledStrip.h"
 #include "gpio.h"
 #include "lpd8806.h"
+#include <time.h>
 
 unsigned long int led_strip_colors[3];
 unsigned long int led_strip_colors1[3];
@@ -71,13 +72,24 @@ int ledInc;
   led_strip_colors8[2] = 0x7f7f7f;
 
   while (1) {
-    blendPixels(led_strip_colors1, led_strip_colors2, 100, 200000);
-    blendPixels(led_strip_colors2, led_strip_colors3, 100, 200000);
-    blendPixels(led_strip_colors3, led_strip_colors4, 100, 200000);
-    blendPixels(led_strip_colors4, led_strip_colors5, 100, 200000);
-    blendPixels(led_strip_colors5, led_strip_colors6, 100, 200000);
-    blendPixels(led_strip_colors6, led_strip_colors7, 100, 200000);
-    blendPixels(led_strip_colors7, led_strip_colors1, 100, 200000);
+    time_t t = time(NULL);
+    struct tm tm = *localtime(&t);
+    if ( (tm.tm_hour >= 18 && tm.tm_hour <= 22) || (tm.tm_hour >= 4 && tm.tm_hour < 7) ) {
+      led_strip_colors[0] = 0x000000;
+      led_strip_colors[1] = 0x000000;
+      led_strip_colors[2] = 0x000000;
+      send_frame(led_strip_colors, LED_STRIP_LEN, LED_STRIP_LEN);
+      sleep(100);
+    }
+    else {
+      blendPixels(led_strip_colors1, led_strip_colors2, 100, 200000);
+      blendPixels(led_strip_colors2, led_strip_colors3, 100, 200000);
+      blendPixels(led_strip_colors3, led_strip_colors4, 100, 200000);
+      blendPixels(led_strip_colors4, led_strip_colors5, 100, 200000);
+      blendPixels(led_strip_colors5, led_strip_colors6, 100, 200000);
+      blendPixels(led_strip_colors6, led_strip_colors7, 100, 200000);
+      blendPixels(led_strip_colors7, led_strip_colors1, 100, 200000);
+    }
   }
 
   while (1) {
