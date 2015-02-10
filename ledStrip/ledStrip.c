@@ -74,7 +74,7 @@ int ledInc;
   while (1) {
     time_t t = time(NULL);
     struct tm tm = *localtime(&t);
-    if ( (tm.tm_hour >= 18 && tm.tm_hour <= 22) || (tm.tm_hour >= 4 && tm.tm_hour < 7) ) {
+    if ( (tm.tm_hour <= 17 && tm.tm_hour >= 7) || (tm.tm_hour >= 22 && tm.tm_hour < 4) ) {
       led_strip_colors[0] = 0x000000;
       led_strip_colors[1] = 0x000000;
       led_strip_colors[2] = 0x000000;
